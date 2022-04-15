@@ -1,0 +1,283 @@
+CURRENT QUEST: The Syrcus Trench
+CURRENT QUEST: City of the First
+CURRENT QUEST: Travelers of Norvrandt
+CURRENT QUEST: In Search of Alphinaud
+CURRENT QUEST: A Still Tide
+CURRENT QUEST: Open Arms, Closed Gate
+CURRENT QUEST: A Fickle Existence
+CURRENT QUEST: City of Final Pleasures
+CURRENT QUEST: Free to Sightsee
+CURRENT QUEST: A Taste of Honey
+CURRENT QUEST: A Blessed Instrument
+CURRENT QUEST: Emergent Splendor
+CURRENT QUEST: In Search of Alisaie
+CURRENT QUEST: City of the Mord
+CURRENT QUEST: Working Off the Meal
+CURRENT QUEST: A Desert Crossing
+CURRENT QUEST: Following in Her Footprints
+CURRENT QUEST: Culling Their Ranks
+CURRENT QUEST: A Purchase of Fruit
+CURRENT QUEST: The Time Left to Us
+CURRENT QUEST: Tears on the Sand
+CURRENT QUEST: The Lightwardens
+CURRENT QUEST: Warrior of Darkness
+CURRENT QUEST: Ys Iala’s Errand
+CURRENT QUEST: Oul Sigun’s Plea
+CURRENT QUEST: An Unwelcome Guest
+CURRENT QUEST: The Crystarium's Resolve
+CURRENT QUEST: Logistics of War
+CURRENT QUEST: The Oracle of Light
+CURRENT QUEST: Il Mheg, the Faerie Kingdom
+CURRENT QUEST: Sul Uin's Request
+CURRENT QUEST: Ys Iala's Errand
+CURRENT QUEST: Oul Sigun's Plea
+CURRENT QUEST: Unto the Truth
+CURRENT QUEST: Courting Cooperation
+CURRENT QUEST: The Key to the Castle
+CURRENT QUEST: A Visit to the Nu Mou
+CURRENT QUEST: A Fitting Payment
+CURRENT QUEST: Spore Sweeper
+CURRENT QUEST: The Lawless Ones
+CURRENT QUEST: The Elder's Answer
+CURRENT QUEST: A Resounding Roar
+CURRENT QUEST: Memento of a Friend
+CURRENT QUEST: Acht-la Ormh Inn
+CURRENT QUEST: The Wheel Turns
+Emet-Selch
+I am Emet-Selch. Ascian. 
+
+Urianger
+That an Ascian of Emet-Selch's standing should willingly reveal himself unto us─and at this of all junctures─is...most interesting. 
+
+Ardbert
+From the Exarch, is it? With that mirror of his, he can watch your every move, you know. He'll probably think you're talking to yourself. Still, he's keeping you well-fed. Judging by his people's faith in him, he seems to be a decent sort. But so much about him remains shrouded in mystery. Like what was he doing back in my day? There was no such person when I was around. A lot's happened since the Flood, though. Since I was...set adrift. I know little more than you do of this city's history and the Exarch's past. Not that it matters. It's Emet-Selch we should be concerned about. When our world was about to be consumed by Light, the Ascian in white appeared before us. He said that the only way for us to live on was to bring about the Rejoining. Desperate as we were, we heeded his words, not realizing that the Flood was of the Ascians' own making. They cannot be trusted. None of them. But Emet-Selch had one thing right: one should not fight blindly. That's what we did. And it cost us everything we held dear. 
+
+CURRENT QUEST: Stirring up Trouble
+CURRENT QUEST: A Party Soon Divided
+CURRENT QUEST: A Little Faith
+CURRENT QUEST: Into the Dark
+Thancred
+That ended a lot better than it might have. No thanks to Emet-Selch... 
+
+CURRENT QUEST: A Day in the Neighborhood
+CURRENT QUEST: A Helping Hand
+CURRENT QUEST: Lost but Not Forgotten
+CURRENT QUEST: Saying Good-bye
+CURRENT QUEST: Stirring Up Trouble
+CURRENT QUEST: A Beeautiful Plan
+CURRENT QUEST: An Unwanted Proposal
+CURRENT QUEST: Put to the Proof
+CURRENT QUEST: Into the Wood
+CURRENT QUEST: Top of the Tree
+CURRENT QUEST: Look to the Stars
+CURRENT QUEST: Mi Casa, Toupasa
+CURRENT QUEST: Legend of the Not-so-hidden Temple
+CURRENT QUEST: The Aftermath
+CURRENT QUEST: In Good Faith
+Urianger
+Emet-Selch, the Ascian of whom I spoke. 'Twas he who plucked thee from the Lifestream. 
+
+Y'shtola
+Did Emet-Selch not return with you? 
+
+Thancred
+Though I struggle to form the words...I am glad that Emet-Selch was here. We can but pray Y'shtola never does anything so reckless again. 
+
+CURRENT QUEST: The Burden of Knowledge
+Thancred
+Though I struggle to form the words...I am glad that Emet-Selch was here. We can but pray Y'shtola never does anything so reckless again. 
+
+Y'shtola
+That was an enlightening experience. Though not in the way I had hoped. Do you suppose there is any truth in Emet-Selch's claims? 
+
+CURRENT QUEST: Bearing with It
+Y'shtola
+Though recent events plainly warrant further discussion, I think it best that we wait until Alphinaud and the others are present. ...Emet-Selch included. How convenient that he should choose this moment to keep to the shadows. Well...no matter. For the present, we should return to Fanow and make certain of the Eulmorans' withdrawal. After that, Slitherbough. The Blessed are no doubt elated by what has become of the sky. 
+
+CURRENT QUEST: Out of the Wood
+Minfilia
+I know he said he would be watching from the shadows, but doesn't it seem wrong to leave without at least telling Emet-Selch? 
+
+CURRENT QUEST: When It Rains
+CURRENT QUEST: Word from On High
+CURRENT QUEST: Small Favors
+CURRENT QUEST: The Best Way Out
+CURRENT QUEST: Free Trade
+CURRENT QUEST: The Trolley Problem
+CURRENT QUEST: Rust and Ruin
+CURRENT QUEST: On Track
+CURRENT QUEST: Down for Maintenance
+CURRENT QUEST: The Truth Hurts
+CURRENT QUEST: A Convenient Distraction
+CURRENT QUEST: A Dirty Job
+CURRENT QUEST: Have a Heart
+CURRENT QUEST: Full Steam Ahead
+CURRENT QUEST: Crossroads
+CURRENT QUEST: A Fresh Start
+Y'shtola
+Is this not the moment Emet-Selch usually chooses to descend upon us? Whatever will we do without his feigned praise and backhanded compliments? 
+
+CURRENT QUEST: More than a Hunch
+Y'shtola
+Is this not the moment Emet-Selch usually chooses to descend upon us? Whatever will we do without his feigned praise and backhanded compliments? 
+
+CURRENT QUEST: Return to Eulmore
+CURRENT QUEST: A Feast of Lies
+CURRENT QUEST: Paradise Fallen
+CURRENT QUEST: The Ladder
+CURRENT QUEST: The View from Above
+Ardbert
+It's alive. I don't know if you remember, but when we first met in this world, I was all but spent. I never thought to wonder why until now. I think it all just got to be too much. The guilt of causing the Flood... Knowing everyone hated me... But the worst thing was the solitude. Time wears you down, aye...but solitude eats away at you. It was this close to finishing me off. But as bad as it got, and as empty as I felt...I can't even begin to imagine what it must be like for Emet-Selch. All of which is a long way of saying: don't make a choice that leaves you alone. Nothing is worth that─especially not eternity. 
+
+CURRENT QUEST: In Mt. Gulg's Shadow
+CURRENT QUEST: A Gigantic Undertaking
+CURRENT QUEST: Meet the Tholls
+CURRENT QUEST: A-Digging We Will Go
+CURRENT QUEST: The Duergar's Tewel
+CURRENT QUEST: Rich Veins of Hope
+CURRENT QUEST: That None Shall Ever Again
+CURRENT QUEST: A Breath of Respite
+Varis
+And what of Emet-Selch? 
+
+CURRENT QUEST: Extinguishing the Last Light
+Ardbert
+After you collapsed, Emet-Selch vanished. Then Ryne did what she could to stay the raging of the Light within your body. Thanks to her, you're still you, but she's only delayed the inevitable. You're not going to like what you see, but you still need to see it. It's like this all over. The whole of Norvrandt is shrouded in Light again. And it's because of you and the power you absorbed from the Wardens. No one knows but your friends. When they carried you down from the mountain, they told everyone waiting below that they didn't understand why the Light had returned. And now they're out there trying to allay the people's fears while searching for a way to save you. If you're well enough to be up, you're well enough to get some fresh air. Better that than stewing in here. Go on. Go. 
+
+CURRENT QUEST: Reassuring the Masses
+CURRENT QUEST: In His Garden
+CURRENT QUEST: The Unbroken Thread
+Urianger
+Thou didst plan to commandeer an amaro for thy journey to the open sea? I fear the following dive down unto Emet-Selch's underwater abode would drain even thy legendary stamina... Thus, during thy convalescence, we considered the most efficacious method for reaching the depths of the Tempest. And I believe we have arrived at an elegant solution. Yet ere we discuss this step, I suggest thou dost conclude such pressing business as remains to thee in the Crystarium. Once the sea closeth above our heads, we are unlikely to surface again until our grand deed is done. 
+
+CURRENT QUEST: To Storm-tossed Seas
+Thancred
+With all that water out of the way, we'll be able to venture quite some distance. Emet-Selch must be hiding around here somewhere... 
+
+Urianger
+Haaa... Haaa...<gulp> Full glad am I...that Bismarck was true to his word. We are arrived in the Tempest, safe and dry. 'Tis here that we shall find the lair of Emet-Selch, and, I believe, the imprisoned Exarch as well. For an Ascian alone, it is of course a trifling matter to flee unto the rift─yet I suspect such travel is nigh impossible with a mortal in one's custody. Nay, he would not soon risk his prize when the Exarch's very body serveth as the key to the Crystal Tower and its powers of temporal transportation. Thus am I all but certain that this underwater realm harboreth our friend and enemy both. We have but to find them. 
+
+CURRENT QUEST: Waiting in the Depths
+Thancred
+Now, as for where we should be looking, I rather doubt Emet-Selch will be sitting around out in the open. I propose we follow the slope down towards the deeper trenches, and keep an eye out for rock formations large enough to house a stronghold. Let's be off, then─but watch your footing. The ground is still wet, and like to be slippery. 
+
+Alisaie
+I think Thancred has the right idea, but I can't help wondering what Emet-Selch would be doing down here without the aid of gills and fins. 
+
+Ryne
+The gloom down here is so suffocating compared to that endless night sky we saw... But I suppose Emet-Selch had nowhere else to go. 
+
+Ryne
+Yes, I'd like to know more about this “illuminated land” the chieftain spoke of. Could it be Emet-Selch's stronghold, do you suppose? Perhaps he...lit the lanterns upon his return? 
+
+CURRENT QUEST: City of the Ancients
+Y'shtola
+And what have you discovered? Yes, I would agree that the windows are most distinctive. 'Twould seem the structures appear the same to both your sight and mine... And you say you could not so much as scratch the wall? Even with all your might behind the blade? Forename, everywhere I turn in this place, my gaze is drawn by peculiar materials for which I do not have a name. The buildings I had you investigate are prime examples. They may appear to be constructed of ordinary stone, but I assure you it is nothing of the sort... If pressed, I would describe the substance as a composite of several mineral properties, blended to create a material of unparalleled durability. Even the Ronkan Empire, once the greatest power in Norvrandt, produced nothing which compares to this level of perfection. But if not the Ronka, then who? Who were these ancients the Ondo claim as the architects of their sanctuary? I suspect our answer lies with the reason Emet-Selch withdrew here to the Tempest. He may simply have wished to retreat somewhere mere mortals would struggle to reach...but there are many such remote locations. Why here, specifically? Emet-Selch is devoted to his role, and thus we might assume his choice of stronghold somehow serves the Ascian agenda. Or mayhap...'tis a place more dear to him than any other. 
+
+Y'shtola
+Such traces in the Source would have been obliterated by the succession of Umbral Calamities, but here in the First they might have remained untouched for millennia... ...A copy of the mural in the Qitana Ravel. Almet presented it to me during my visit to Fanow, after our victory in Kholusia. Here, in the first scene... By Emet-Selch's own words, it depicts a city of eons past and the disaster which befell it. The design is much simplified, of course, but do you see the similarities between its towers and those you have just inspected? We are close to the truth, I feel. Let us search the surrounds for another tower─one which matches the picture near enough to remove all doubt. From what I have seen, naught more than sand and more sand lies to the east, and the south held no such structures. I suggest we try our luck further to the northwest. 
+
+Y'shtola
+Aye... This is the mural writ large... Though I cannot guess at its purpose, it must have been an imposing sight. How much of the tower's height lies hidden beneath the ground, I wonder... Centuries of our history have settled upon such ruins. Countless layers of dust and sediment... ...An entire civilization, its existence forgotten by all except a handful of Ascians. And yet it did exist. They lived here, in this city... But let us focus on what we've learned thus far. The Ondo chieftain spoke of mysteries stirring─of a land illuminated. Judging by his words, he believes this phenomenon related to the ancients' return. Thus can we surmise that what the Ondo saw shining in the abyss was, in all likelihood, yet another remnant of this age-old civilization. And who else would “light the lanterns” as Ryne put it, than Emet-Selch himself? 'Tis almost certain he is there! 
+
+CURRENT QUEST: The Light of Inspiration
+CURRENT QUEST: The Illuminated Land
+Alisaie
+An Ascian homeland... Despite his many protestations, I never quite believed Emet-Selch was telling the truth. 
+
+Alisaie
+If Emet-Selch is in that trench, then we'll have to assume he's not swimming in saltwater. I wouldn't want to suddenly find ourselves at the edge of Bismarck's bubble with no air to breathe... 
+
+Urianger
+Emet-Selch hath made himself difficult to reach, yet every step we take bringeth us nearer to his stronghold. Let us not linger, lest the Exarch suffer for our late arrival. 
+
+Alphinaud
+Emet-Selch holds the Exarch captive somewhere within that vast city... Yet even if we must search every alleyway, we will find them! 
+
+Alisaie
+When the chieftain spoke of lights shining from the abyss, this is not at all what I imagined. Why would Emet-Selch do this...? 
+
+Y'shtola
+Forename, did you note the style of the architecture? 'Tis the same used for the remnants at the Cups and the mural's painted towers. Look closely. Emet-Selch has not simply reclaimed these ruins...he has layered the semblance of an entire city upon them. Gods, the magnitude of his artifice is staggering. Though it pains me to admit, we did not fully understand the feats of which an old world Ascian is capable... 
+
+CURRENT QUEST: The End of a World
+Alphinaud
+Emet-Selch holds the Exarch captive somewhere within that vast city... Yet even if we must search every alleyway, we will find them! 
+
+Urianger
+Mayhap it is not so passing strange... Did Emet-Selch not invite Forename to visit his abode? 'Tis plain thy coming was expected. 
+
+Alisaie
+So Emet-Selch isn't the leader here... 
+
+Robed Giant
+Emet-Selch is a member of the Convocation. Were you hoping to witness its deeds firsthand? 
+
+Y'shtola
+To my eyes, these people appear as arcane entities. I suspect Emet-Selch wove them from aether, much as he reconstructed the rest of the city... 
+
+Urianger
+I believe thou hast the right of it, Master Alphinaud. This aetherial Amaurot and its residents appear to be phantoms of a different age. Emet-Selch hath resurrected a memory─a moment in time from before the star was sundered. 
+
+Optimisitic Amaurotine
+Hm? 'Twould seem the Hall is host to a most precocious visitor this day. And what, pray tell, shall be the subject of our discussion, young one? Ah...the Convocation and their handling of the coming peril. 'Tis only natural that you should have questions. Shall we begin with the members themselves? As all know, the Fourteen are the wisest and most puissant among us. They are the stewards of order, responsible for decisions which keep this star turning season after season. Be it the speaker, Lahabrea, or the emissary, Elidibus, each seat is occupied by an elected sage of surpassing intellect. Loghrif, Mitron, Emet-Selch... Their individual titles have, as a gesture of respect and a matter of tradition, become synonymous with their incumbents. Thus it is with great incredulity that I greet this recent rumor that a seat in the Convocation is soon to be left vacant. If proven true, 'twould be an unprecedented development─and testament to the immense pressure under which our saviors are toiling... In any event, I for one am confident they shall deliver our star unto salvation. 
+
+Pragmatic Amaurotine
+An audience with Emet-Selch? I am afraid you have the wrong office, little one. And besides, he will be far too busy to field the questions of curious children. Surely you have been told of the looming catastrophe? Every resource available to the Convocation must be spent upon ensuring our world survives. They have yet to make an official announcement, but it is said the Fourteen are moving forward with a plan of scarce credible proportions─one which promises to grant will to the very star itself! They will invoke our mightiest spells of creation to birth an entity of all-encompassing magnificence...and then they will rewrite the laws of existence. 'Tis a huge undertaking, and it must be completed ere the corruption spreads this far. Thus I say to you again: do not hold out hope for an audience... 
+
+Alphinaud
+Forename. If I was not certain before, then I am now─the people of this city believe they face the end of the world. I cannot imagine what purpose compelled Emet-Selch to recreate this ancient “Amaurot.” And yet...I fancy I hear his words to us echoing throughout this ocean trench. He would have his story known. 
+
+CURRENT QUEST: A Greater Purpose
+Alisaie
+An interesting matter which no doubt bears further study. But despite all these revelations, I worry we are no closer to finding Emet-Selch. Has anyone learned aught which might lead us to his location? 
+
+Administrative Clerk
+Forename Surname. Your application is ready for collection. As your residency was approved by Emet-Selch himself, further forms of identification will not be required. Here are your application documents. Submit them at the Bureau of the Secretariat and the clerk will issue you with a visitor's writ for the Capitol. Your visitor's writ will be issued at the Bureau of the Secretariat. Just submit those application documents to the clerk on duty... 
+
+???
+...May I? You, I think, are from a time beyond ours. Have you followed in the wake of Emet-Selch? Nay, there is no cause for alarm. I am simply a shade. Here and not here. 
+
+Hythlodaeus
+I know only that my name is Hythlodaeus, and that this city is a recreation─a phantom moment plucked from the well of history. These others seem unaware of their pale existence, but I wonder if Emet-Selch's mind was distracted when it came to my reconstitution. A stray thought would have been enough. “Hythlodaeus will realize the truth,” for example. We were...close friends once, you see... Yet in spite of my perception, I play the same role as all the rest─a bit part, meant to bring color and noise to this well-crafted stage. Too much scrutiny, and we shall burst like the fragile bubbles we are. Thus I tell you again: my presence is naught to concern you. I wish only to share your company whilst we wait. ...If you've come this far, then you know of the catastrophe which awaits us on our “morrow.” The Final Days. What began as isolated incidents soon swelled into a world-spanning threat... The Convocation of Fourteen─well, it was Thirteen at the time─endeavored to create a will for our star. They would repair the fundamental laws of order and halt the spread of destruction. But creation on such a scale required an immense source of power... Of those of us who still lived, nearly half offered up their lives in the name of salvation. And from their sacrifice, Zodiark was born. Just as we had hoped, He reached forth and halted the march of oblivion. ...Yet oh how the star had suffered. So many species lost. The land was blighted, the waters poisoned, and even the wind had ceased to blow. Once more did our people give of themselves to Zodiark. Another half of our race sacrificed to cleanse the world; to ensure that trees and grasses and myriad tiny lives would sprout and grow and flourish. The cycle of life had begun anew, and we reconsidered the means by which we might protect it. The Convocation decided thus: we would nurture our world until it was bursting with vitality. Then, when the time was right, we would offer some portion of its living energy to Zodiark... In return, He would restore to us those brethren whose souls had fed His strength, and together we would resume our role as stewards. There were, however, those who disagreed with this plan. They argued that enough had been sacrificed to Zodiark─that this new world should belong to the lives newly born. These dissidents surrendered their life energies in the creation of Hydaelyn, an incarnation of their opposing belief. And for the first time in history, our people stood divided... Know you, then, how this conflict ended? ...Hm, I thought you might. Emet-Selch has ever been a champion for the will of Zodiark. The original plan may have been set back by millennia, but he will have not abandoned his course. He will pay the price for our return by whatever means is necessary. And though he may carry himself with a certain glib ease, Emet-Selch is not a man to bear his burdens lightly. In fact, I imagine they have only grown heavier with every passing century... ...'Tis truly a terrible weight he has chosen to carry. 
+
+Hythlodaeus
+It seems your turn has come. Pray do not let me keep you. ...Ah, there was one last thing. You walk with another at your side, yes? Nay, I see no definite form...just the faintest suggestion of a second soul. I doubt it visible to anyone but me. Otherwise, I assume only you can see and hear this ethereal companion? Hm hm hm... Your connection is hardly a coincidence. In our time, the two of you were one─the color of your souls tells the tale. A hue that distinctive cannot be mistaken, no matter how thin the soul is spread. Hah! This is just the kind of fate I might expect for one such as he. Surely Emet-Selch has recognized the hint of “him” in you...? 
+
+Urianger
+The Capitol boasteth not a single armed sentry. 'Twould seem that in their time, they did not deem it needful to post guards. The windows and doors, however, appear heavily warded. Though mightily did we strive, with strength mundane and magical, we failed to budge them even a fraction of one ilm. Mayhap 'twas simply the case that Emet-Selch's recreation did not extend to their usual function. 
+
+Alisaie
+Of course not. And that's to say naught of what Emet-Selch plans for the Exarch's power. Do we stand by and let him threaten our future as well as our past? We need to find him, Forename. And when we do... Make your mark. Change the course of history in a way that's felt by those who came before, and those who came after; by everyone you've ever met. Change things so that even my other self, dying somewhere in that future Calamity will smile and say, “I knew you would win.” 
+
+Ryne
+...Is fighting Emet-Selch the only way? He created an entire city. It will take everything we have to defeat him...if we even can. And if you push that hard in your current state, the Light will break free... 
+
+CURRENT QUEST: Shadowbringers
+Urianger
+As well thou knowest, if we are to usher Emet-Selch unto his rest, we must needs bind his Ascian soul...and then shatter it with overwhelming force. The former task requireth auracite, and such have I prepared─upon the Exarch's asking, no less, though 'twas ever mine intent to provide said boon. The future whence our noble friend doth hail is a world fallen to Ascian artifice, and he would not see such grim history repeated. In a sense, Emet-Selch's destruction will be the culmination of the Exarch's efforts─a reward for all he hath endured these many years. Yet even as thou stridest into the jaws of peril, forget not but that his fondest wish─and that of many others, besides─is to see thee survive unto the morrow. 'Tis in pursuit of that happiest of outcomes that I do pledge to remain at thy side. 
+
+Alphinaud
+Emet-Selch! 
+
+Alphinaud
+Emet-Selch! We understand. Truly. But it makes no difference. The ones you love are in the past. While ours are here in the present. One day, we too will be ashes and dust, but not today. Our time is not yet finished. We share your conviction...and that is why we will not abandon our course. 
+
+Urianger
+In those Final Days, 'tis said that monstrous beasts were set loose in the city-terrors made flesh by sorceries run rampant. If Emet-Selch hath been faithful in his reconstruction, then we must be prepared to face many such abominations. 
+
+Y'shtola
+I reasoned that Emet-Selch would not harm the Exarch until he had learned the tower's secrets, but his parting words suggest otherwise. Let us make haste. Your friend may not have the luxury of decades to wait for you this time. 
+
+Alphinaud
+It's over. Emet-Selch is no more! 
+
+Ryne
+No. It's more than that. Under the strain of that incredible flood of aether, your soul had begun to break apart. Yet now it seems somehow...restored. I tried to help you before the battle, but Emet-Selch stopped me. So, h-how did you─exactly what did you... Can you tell us what happened? 
+
+Elidibus
+Oblivion has claimed him... Emet-Selch...gone. Lahabrea...gone. I alone remain-the last of the unbroken. Once more, I am moved to reevaluate the potential of these tattered souls. Ah, Zenos. Never did I dream you could overpower me so completely, possessed as I was of your body, and all its uncanny strength... And now that I have shared with you the truth of this world and its reflections, who can predict how events will unfold? ...Not I. “Emissary”... What a poor jest that title has become. The flow of history has become muddied, its currents wild beyond my capacity to direct them. You have wrested the advantage, Hydaelyn. The thieving hands of Your disciples tighten their grip on our star.  The origins of the world remain hidden and its inhabitants ignorant of their broken existence, just as You and Your creators desired. They celebrate the gift of imperfect life-uncaring, unknowing as we weaken and fade. But do not imagine Yourself rid of us. Though Your champion has indeed proven the most egregious obstacle to our ascendance─a barbed thorn in my side─he may yet be removed and cast into the abyss. Oh yes...it can be done. I will keep these “heroes” mired in the First, and victory will be ours at the last. Warriors of Darkness now, are they? Then their fate is decided. They shall meet the same end as those who came before─death at the hands of Warriors of Light! 
+
+Y'shtola
+There you are. I take it there were no pressing matters to keep you in the Source, then? If not, I may have need of you in the near future. There is still yet so much to be learned of this world. So many mysteries begging to be solved. The greatest perhaps being the truth of Emet-Selch's words that fateful day in the Qitana Ravel. A most troubling matter to be sure, but remember: it is not a burden you must bear alone. 
+
