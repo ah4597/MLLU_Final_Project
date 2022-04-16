@@ -281,3 +281,363 @@ Oblivion has claimed him... Emet-Selch...gone. Lahabrea...gone. I alone remain-t
 Y'shtola
 There you are. I take it there were no pressing matters to keep you in the Source, then? If not, I may have need of you in the near future. There is still yet so much to be learned of this world. So many mysteries begging to be solved. The greatest perhaps being the truth of Emet-Selch's words that fateful day in the Qitana Ravel. A most troubling matter to be sure, but remember: it is not a burden you must bear alone. 
 
+CURRENT QUEST: Shaken Resolve
+CURRENT QUEST: A Grand Adventure
+CURRENT QUEST: A Welcome Guest
+CURRENT QUEST: Good for the Soul
+CURRENT QUEST: Nowhere to Turn
+CURRENT QUEST: A Notable Absence
+CURRENT QUEST: For the People
+CURRENT QUEST: Finding Good Help
+CURRENT QUEST: Moving Forward
+CURRENT QUEST: Vows of Virtue, Deeds of Cruelty
+CURRENT QUEST: Old Enemies, New Threats
+CURRENT QUEST: The Way Home
+CURRENT QUEST: Seeking Counsel
+CURRENT QUEST: Facing the Truth
+Crystal Exarch
+Thanks to all of you, however, their lot has changed, and now they may heed the long-forgotten truth. You claimed it was Ardbert who helped you overcome Emet-Selch, correct? Such a revelation would do well to sway the hearts of those who know him only as a villain. I have shared this with a select few, but one and all must be told of his sacrifice. To that end I say we proceed with Alphinaud's plan. We call together the people of the Crystarium and recount to them the true tale of the Warriors of Light and the Flood that followed in their wake. 
+
+Y'shtola
+Nor I. To my eyes, your aether burns as brightly as the day you slew Emet-Selch. That is proof that he is with you still. 
+
+Urianger
+Elidibus. That Zenos hath reclaimed his own flesh is known. Thus evicted from his borrowed form...and cognizant, no doubt, of Emet-Selch's failure here in the First... 'Tis quite possible the emissary chose Ardbert for his next vessel. 
+
+Y'shtola
+And they have gained much by it. Emet-Selch single-handedly built the Garlean Empire in this manner, while Lahabrea came close to conquering Eorzea having taken possession of Thancred's living body. 
+
+CURRENT QUEST: A Sleep Disturbed
+Y'shtola
+We were a hair's breadth from defeat when we faced Emet-Selch, and now we must contend with yet another Ascian. We must tread carefully. 
+
+Y'shtola
+Hmmm... Then I think it time I return to the Greatwood. Until now, everything we have learned of the Ascians has been handed to us at their leisure. But that was one of Emet-Selch's unique failings. I have no reason to think Elidibus will be as forthcoming. Fortunately, I recently received word from Fanow that heretofore unexplored chambers have been discovered deep within the Qitana Ravel. Almet believes the relics within tell of a great calamity that befell an ancient civilization─that of the Ascians, perhaps. They may lead us to the truths we seek. 
+
+Y'shtola
+Even Emet-Selch was taken aback to find a mural illustrating the Final Days in these ruins. What other surprises do you suppose yet lie within? 
+
+Y'shtola
+Naught less than the Echo. In which case...none of this is mere coincidence. A shower of stars setting the sky aflame─and in both this world and the Source, we find individuals within whom a mysterious power awakened at the sight. We could never unpick the why of it. Now, however...I believe we might. Does the scene depicted here not resemble the one we saw when we first ventured into the Qitana Ravel? Moreover, does it not recall that which Emet-Selch invited us to witness in Amaurot? The Final Days. If, as the Exarch's research suggests, soul and mind share a fragile yet profound bond, might it not be possible for an event to leave such a deep imprint upon the soul that it could be perceived eons later─given a suitable trigger? The Echo defies explanation by conventional aetherological theory. Or shall we say, modern aetherological theory. But if it is a power that once belonged to the ancients, to souls yet undivided... It would seem I have entered the realm of pure speculation. And I call myself a scholar. I shall refrain from making any further wild claims until such time as I have evidence. Still, I cannot choose but be reminded of our experience in Amaurot... 
+
+Y'shtola
+Your mothers were wise. Though we witnessed the Final Days, our impressions could not fail to be colored by our own experiences and expectations. Those who lived through it would have perceived the event quite differently. We must bear in mind that it is no simple matter to keep the truth alive, or it will die with Emet-Selch and his kin. But we have disturbed Tiuna long enough. Fanow will serve similarly well as a venue for our contemplations. 
+
+CURRENT QUEST: An Old Friend
+Elidibus
+Yes, it is I, Elidibus. Through your time in Emet-Selch's imitation of our home, I daresay you have gained a better understanding of my role since last we met. Not that it matters. 
+
+Alphinaud
+Once, I would have said your goal was destruction alone. Now I understand that you fight for something you love, just as we do. Yet though we seem doomed to clash, I bid you consider Emet-Selch's final words. "Remember that we once lived," he said. Had he not seen some glimmer of hope in our kind, I do not believe he would have spoken thus. 
+
+Elidibus
+Emet-Selch... How very unlike you, to err so gravely. That one should stray at the end of so onerous a path is understandable, but I had thought you above such weakness. Mayhap you thought the same. Would that I had been present to offer correction... But I shall do so now, as is my duty, and return all to its proper course. As for you... Look at yourselves. Look at your history. Look back one hundred short years, to how your greatest warriors were undone. And now? At but a word from me, you raise your hands in answer like the puppets you are. Naught has changed. You fail and you fail and you learn nothing─allow that which is most important to slip through your fumbling fingers like so many grains of sand. Again and again and again. And you would remember us? You do forget yourselves. I have my duty. 
+
+Y'shtola
+Another visit to the Tempest may shed some light upon these mysteries. Whether we are to exchange words or blows with Elidibus at our next meeting, the fact remains: we know too little. Ere our paths cross again, I would learn more of the world that once was─and of Elidibus himself. In this, we would be best served going directly to his home, much as Emet-Selch came to ours. 
+
+Urianger
+Though I see the wisdom in thy suggestion, the Amaurot we visited is but a phantom born of Emet-Selch's memory. I fear it will teach us little that we do not already know. 
+
+CURRENT QUEST: Deep Designs
+CURRENT QUEST: A Whale's Tale
+CURRENT QUEST: Beneath the Surface
+Urianger
+For a certainty, Emet-Selch never uttered the name, speak though he did of the schism which Zodiark's advent wrought upon mankind. Some were of the viewpoint that His power must needs be restrained, and to that end did they call forth She who would serve as His shackles. We know now that it was this Venat to whom they looked for leadership. 
+
+Alphinaud
+I had always assumed Elidibus to be of the same ilk as Lahabrea and Emet-Selch. But if the real Elidibus sacrificed himself before the sundering... 
+
+Urianger
+The white-robed emissary hath ever named himself "Elidibus." Yet if the shade spoke true, Elidibus ceased to be ere even the sundering came to pass. This calleth to mind a truth that Emet-Selch did once reveal in passingâ”€that the names by which we know our foes are not those given to Ascians at birth. Rather, they are titles of office, afforded to individuals of merit at such time as the role becometh vacant. Perchance the Elidibus at Zodiark's heart and the emissary with whom we are acquainted be not one and the same, but predecessor and successor. 
+
+CURRENT QUEST: Echoes of a Fallen Star
+White-robed Figure
+Indeed... Could Emet-Selch have found a way...? Precious few possess memories of the Final Days. 
+
+CURRENT QUEST: In the Name of the Light
+CURRENT QUEST: Heroic Dreams
+Elidibus
+That which I do is no different from that which you have done so many times, Warrior of Darkness. I arm myself. I hone my skills. I make ready to vanquish my enemy─you. You who have murdered my brothers─who have taken their selfless labors in service to the one true world and turned them to ash. I see you for what you are. You are death, and only in death shall you serve any purpose. The Convocation charged me to steer mankind and the very star upon their true course. As Elidibus, it is my duty. And I shall see it done. I will strike you down... Destroy you body and soul. All else must wait. Ere long I will come for you, Warrior of Darkness. And I will save the world. One last matter. I bore witness to your final struggle with Emet-Selch. It seemed as if he saw something familiar in you. As if he mistook you for another. 
+
+CURRENT QUEST: Fraying Threads
+CURRENT QUEST: Food for the Soul
+CURRENT QUEST: Faded Memories
+Elidibus
+An impressive show of strength. But surely no more than a foretaste of that which Emet-Selch's conqueror is capable. Such might requires a fairer measure. To compare like with like. Yes... I shall just have to test you myself. 
+
+Elidibus
+Correct on all counts. Such is my nature, and such are my methods. I have aided heroes. I have made them. I have even become them. This served not only to strengthen me, but also to facilitate the work of my brothers, such as Emet-Selch, with his penchant for nation building. 
+
+CURRENT QUEST: Etched in the Stars
+Hythlodaeus
+Heh heh... I see you have been collecting stars. I speak of those crystals. They have constellations etched upon them, yes? High in the heavens, those stars shine their guiding light down upon the lives below. Fitting symbols for the Convocation of Fourteen, would you not agree? As you will have gathered, each crystal bears an account of the life of a member of the Convocation as remembered by the unsundered. Lest you worry, they aren't concepts; they are far too incomplete to be so. But they suffice for imbuing memories within sundered souls, that they might be restored to their office. Keep them. I am sure Emet-Selch wouldn't mind. So, how fare you of late? You are feuding with Elidibus this time, I believe? 
+
+Hythlodaeus
+Hm... I shall refrain from passing comment on your struggle. It is not my place to do so, long-departed as I am. But if I may give voice to a personal desire...I would rather you lived. If you do not, how will you keep your promise to Emet-Selch? The promise to remember? It must weigh heavy, the burden of all those memories. To one who has lived a life such as yours, I can well imagine how Elidibus's existence might seem hollow─how empty his single-minded pursuit of a half-forgotten cause must appear... But know that his devotion is not without reason. Even if he himself can no longer remember what that reason is. Well, that is quite enough talk about Elidibus. I would see if you can reunite the wayward stars. I mentioned before that there was a member of the Convocation who opposed Zodiark's summoning and defected. One whose office was left vacant... Defectors having been deemed unworthy of commemoration, no crystal exists for the individual in question. ...Or shouldn't exist, at any rate─and wouldn't, had a friend not created one in secret. A crystal bearing the forgotten name of his office, along with a magick of his own conceiving─a singular incantation embodying his spirit. Among all the offices, the Fourteenth was most unusual. For while the rest sat in Amaurot, its holder was charged with gaining an intimate knowledge of the wider world. In the course of his duty, he traveled the length and breadth of every land, and befriended countless folk. He encountered troubles too, of course. Matters which he could simply have referred to the Convocation. But that was not his way. Nay, more often than not, he would call upon his comrades, and together resolve matters themselves. Such is the magick sealed within that crystal─the magick to summon the stars to your side. In time of greatest need, should you wish upon it with all your heart, it will surely answer your call. And now it is where it belongs. Oh, there is no need for thanks. But nor will I hear any complaints about it either. After all, I cannot say whether I act of my own volition or by the will of my recreator! 
+
+Y'shtola
+Ahhh... Fresh air at long last. I would celebrate my return to dry land with a pot of tea─had we the luxury of time. But we must be prepared for Elidibus. Given what we know, it is plain he will not be deterred from his course. And nor would I, were I him. Not if it meant forsaking everything I loved. That said, I have not forgotten how Emet-Selch sought to find common ground with us, for all our misgivings. Ultimately, our differences were not to be bridged, of course, but one must always try. Emet-Selch understood this, and if his gesture resonated with you, perhaps you might consider reaching out to his brethren. Though it may all be for naught, you of all people know that there is no such thing as a foregone conclusion. 
+
+CURRENT QUEST: The Converging Light
+Elidibus
+It was not until I observed the battle between Emet-Selch and the Warrior of Darkness that I realized what I must do. I will summon heroes from other worlds unto the First, just as you did. Their presence shall serve to empower me─granting me the strength to crush my enemy. 
+
+CURRENT QUEST: Hope's Confluence
+Elidibus
+Memories of a possible future... Worthless, all. Worthless as memories of the only past. Fated to fray and fade into oblivion. Leaving naught but a gaping void... The Waking...Sands? ...Yes, that was the place. The place I first made myself known to you and yours. The seventh Rejoining had left the realm listing dangerously towards Darkness. And events were unfolding that threatened to push it over the brink. Thus did I approach you, in my capacity as Emissary, thinking that you would make a useful pawn... But I was wrong, and for my misstep did Lahabrea and Emet-Selch pay the ultimate price. Leaving me the last of the unsundered. My remaining brethren, fragmented as they are, cannot hope to see our mission to its end. It falls to me alone. Defeat is not an option. I will strike you down. I will resurrect Lord Zodiark. And I will bring back those who sacrificed themselves to call Him forth. Though it take a thousand thousand years, upon my honor as Elidibus, Emissary of the Convocation of Fourteen, I will see this done. 
+
+CURRENT QUEST: Nothing Unsaid
+Y'shtola
+A gift from Emet-Selch. He knew of Elidibus's plight. Foreseeing his own death, he made provisions to bring Elidibus's suffering to an end, lest his friend be left to continue the struggle alone. Or so I wildly speculate. It is unlikely we will ever know the truth. The best we can do is to remember events as they happened, no more and no less. As the Ronkans so rightly put it, “History is learned, not lived.” 
+
+CURRENT QUEST: The Journey Continues
+CURRENT QUEST: Unto the Morrow
+CURRENT QUEST: Reflections in Crystal
+Urianger
+How many times have we few assembled thus in this storied chamber? Many and more, I think. Were the Exarch standing before us, the scene would be complete. Nay─'twould be complete were he standing before us with Emet-Selch smirking in the wings. 
+
+CURRENT QUEST: Alisaie's Quest
+CURRENT QUEST: The Wisdom of Allag
+CURRENT QUEST: Reviving the Legacy
+CURRENT QUEST: Forget Us Not
+CURRENT QUEST: Like Master, Like Pupil
+CURRENT QUEST: The Admiral's Resolve
+CURRENT QUEST: The Search for Sicard
+CURRENT QUEST: On Rough Seas
+CURRENT QUEST: The Great Ship Vylbrand
+CURRENT QUEST: Futures Rewritten
+CURRENT QUEST: Unto the Breach
+CURRENT QUEST: Here Be Dragons
+CURRENT QUEST: Righteous Indignation
+CURRENT QUEST: For Vengeance
+CURRENT QUEST: The Flames of War
+CURRENT QUEST: When the Dust Settles
+CURRENT QUEST: The Company We Keep
+CURRENT QUEST: On Official Business
+CURRENT QUEST: Death Unto Dawn
+CURRENT QUEST: Operation Archon
+CURRENT QUEST: The Ultimate Weapon
+CURRENT QUEST: The Next Ship to Sail
+CURRENT QUEST: Old Sharlayan, New to You
+CURRENT QUEST: Hitting the Books
+CURRENT QUEST: A Seat at the Last Stand
+CURRENT QUEST: A Labyrinthine Descent
+CURRENT QUEST: Glorified Ratcatcher
+CURRENT QUEST: Deeper into the Maze
+CURRENT QUEST: The Medial Circuit
+CURRENT QUEST: The Full Report, Warts and All
+CURRENT QUEST: A Guide of Sorts
+CURRENT QUEST: Estate Visitor
+CURRENT QUEST: For Thavnair Bound
+CURRENT QUEST: On Low Tide
+CURRENT QUEST: A Fisherman's Friend
+CURRENT QUEST: House of Divinities
+CURRENT QUEST: The Great Work
+CURRENT QUEST: Shadowed Footsteps
+CURRENT QUEST: A Boy's Errand
+CURRENT QUEST: Tipping the Scale
+CURRENT QUEST: The Satrap of Radz-at-Han
+CURRENT QUEST: In the Dark of the Tower
+CURRENT QUEST: The Jewel of Thavnair
+CURRENT QUEST: The Color of Joy
+CURRENT QUEST: Sound the Bell, School's In
+CURRENT QUEST: A Capital Idea
+CURRENT QUEST: Best of the Best
+CURRENT QUEST: A Frosty Reception
+CURRENT QUEST: Tracks in the Snow
+CURRENT QUEST: How the Mighty Are Fallen
+CURRENT QUEST: At the End of the Trail
+CURRENT QUEST: A Way Forward
+CURRENT QUEST: The Last Bastion
+CURRENT QUEST: Personae non Gratae
+CURRENT QUEST: His Park Materials
+CURRENT QUEST: No Good Deed
+CURRENT QUEST: Alea Iacta Est
+CURRENT QUEST: Strange Bedfellows
+CURRENT QUEST: In from the Cold
+CURRENT QUEST: Gateway of the Gods
+CURRENT QUEST: A Trip to the Moon
+CURRENT QUEST: Sea of Sorrow
+CURRENT QUEST: The Martyr
+CURRENT QUEST: In Shadow's Wake
+CURRENT QUEST: Helping Hands
+CURRENT QUEST: A Harey Situation
+CURRENT QUEST: A Taste of the Moon
+CURRENT QUEST: Styled a Hero
+CURRENT QUEST: All's Vale That Endsvale
+CURRENT QUEST: Back to Old Tricks
+CURRENT QUEST: Setting Things Straight
+CURRENT QUEST: Heart of the Matter
+CURRENT QUEST: Returning Home
+CURRENT QUEST: Skies Aflame
+CURRENT QUEST: The Blasphemy Unmasked
+CURRENT QUEST: Amidst the Apocalypse
+CURRENT QUEST: Beyond the Depths of Despair
+CURRENT QUEST: That We Might Live
+CURRENT QUEST: When All Hope Seems Lost
+CURRENT QUEST: Warm Hearts, Rekindled Hopes
+CURRENT QUEST: Simple Pleasures
+CURRENT QUEST: Under His Wing
+CURRENT QUEST: At World's End
+CURRENT QUEST: Return to the Crystarium
+CURRENT QUEST: Hope Upon a Flower
+CURRENT QUEST: Petalouda Hunt
+Hythlodaeus
+Now then, our friend Hermes. Aside from overseeing the facility, he also conducts his own research. Chances are he will be at the main observation hub, so let us seek him out there first. Attired as you are, however, you stand out a little too much. Our dear Emet-Selch wishes to keep a low profile for his errand, so... Do you know how to make a robe? The basic concept will do. No? In that case, Emet-Selch─ 
+
+Hythlodaeus
+Fair point, but at the very least it should spare you unwanted attention from casual observers. Emet-Selch speaks true. Even dressed like us, your unusual nature will be plain to those who think to look. Should someone question your presence, don't make up excuses, much less try to explain what you actually are. No, best to simply say that you're a familiar. The question is whose... Ah, of course─Azem's. If you say you belong to him, people will give you the benefit of the doubt for any and all outlandish behavior. 
+
+CURRENT QUEST: In Search of Hermes
+Hythlodaeus
+Aye, that I could... As you know, Emet-Selch and I can discern the color of souls. By the same token, we can also see aether quite keenly, and from great distances. With this skill, I could readily locate Hermes, but I felt that it would be a waste of an opportunity. We're here to perform an assessment, after all. By searching the ordinary way, we stand to gain insight into Elpis and the man in charge of it. 
+
+Hermes
+Quite all right, yes... My apologies for making you worry, Meteion. Both you and...er... Forename Surname, you are called? An intriguing name, somehow reminiscent of a new creation... Thank you for coming after me. As for you, little one, you must be more careful. You may be able to fly, but it doesn't mean you cannot fall and hurt yourself. ... Oh no, I had forgotten all about its fellows! Truly? What a relief... I must thank Emet-Selch and Hythlodaeus when I return to them. But first, with the distractions out of the way... As chief overseer of Elpis, permit me to welcome you to our facility. I hope you will enjoy your time here. 
+
+CURRENT QUEST: Ponder, Warrant, Cherish, Welcome
+Hythlodaeus
+While Emet-Selch has been accommodating thus far, he is the one who has business with Hermes. If you wish to attend, you will have to ask his permission. 
+
+Hermes
+My apologies... It has been decided that Emet-Selch and Hythlodaeus will accompany me as I tend to my duties. If you wish to learn more, perhaps you would like to come too? 
+
+CURRENT QUEST: Lives Apart
+CURRENT QUEST: Their Greatest Contribution
+Hythlodaeus
+Oho, you wish to know why Emet-Selch was chosen for the Convocation? I should be glad to share the tale! 
+
+Emet-Selch
+Hmmm... If you would accompany us, I suppose you should at least know that much. The Convocation of Fourteen is a governing body that determines myriad policies. Our goal is to ensure that all is right in creation, that our star may know a brighter future. As the name suggests, the council is comprised of fourteen offices, each of which is held by an individual chosen for their surpassing abilities. Depending on the office, one is required to either be an authority in a certain field, or possess skills that would facilitate the performance of their stipulated duties. The former category includes Mitron, specialist in aquatic life; Loghrif, specialist in terrestrial life and husbandry... Halmarut, specialist in fungal and plant life; Emmerololth, specialist in medicine and healing... And Lahabrea, specialist in creation magicks, who has brought forth phantom beings of the highest complexity. As for the latter category, there is Altima, advocate of the arts; Igeyorhm, champion of enlightenment and rhetoric; Pashtarot, preserver of discipline and order... Emet-Selch, keeper of the aetherial realm─or “Underworld” in the vernacular; Fandaniel, pursuer of extant phenomena... And Azem, traveler of the world and counselor to the people. ...What? Should I be revealing such details to you? Don't be silly. Even children know this much, and you would do well to remember it all. 
+
+Hythlodaeus
+Hmmm... Yes, I believe I have a solution. Emet-Selch─may I trouble you to move that charybdis away from its fellows? Somewhere out of sight. Meanwhile, I'd like the rest of you to help me prepare here. 
+
+Hythlodaeus
+Emet-Selch is out of sight? Good. Let's speak of the plan. It's a stroke of genius, really: we have Emet-Selch train the charybdis! Aside from being able to fly untransformed, he can readily see aether currents. And with his adept spellcraft, he can also employ suitable wind magicks to guide the creature along. 
+
+Hythlodaeus
+Don't be! As I mentioned, it would also be for his own sake. With that settled, let's begin at once! Forename─I want you to go to Emet-Selch. Tell him that you have a favor to ask. He will be disinclined to cooperate at first, but you mustn't be discouraged. With our friend, the trick is to be unflaggingly persistent. Off you go, now, and good luck! 
+
+Hermes
+With apologies to Emet-Selch, but this may be the best approach. Let us work together to win him over! 
+
+Hythlodaeus
+If I didn't know better, I'd say Emet-Selch is enjoying himself. Not that he'd ever deign to admit it. 
+
+CURRENT QUEST: Aether to Aether
+Hythlodaeus
+Emet-Selch and I will search the area for good measure. Just to make sure the lykaon did not escape. 
+
+Hythlodaeus
+Would it be possible for us to attend the discussion? That Emet-Selch may better carry out his duties. 
+
+CURRENT QUEST: A Sentimental Gift
+CURRENT QUEST: Verdict and Execution
+Hermes
+An all-too-brief interlude, perhaps, but it is time I attend to my next task. As Emet-Selch and Hythlodaeus are aware, we reached a verdict regarding the fate of the lykaones. Seven were created for observation... ...And all seven must be unmade. Doros has followed the correct protocols, and, as chief overseer, I can find no fault in his judgment. The lykaones would disrupt the natural order, ravaging and consuming other species until they themselves starve and perish. They cannot be released into the wild, and they cannot be allowed to remain here in Elpis. I intend to petition the Bureau of the Architect to have the concept preserved as a restricted-purpose hazardous life-form. Hythlodaeus has pledged to support me in this endeavor. Yet whatever the bureau decides, the existing lykaones have served their purpose... Doros has already isolated the creatures, and is preparing to carry out the necessary measures. I will join him forthwith. It is my duty to witness the...conclusion...to this study. 
+
+Hythlodaeus
+I will render assistance to Emet-Selch, unneeded though it is. 
+
+CURRENT QUEST: Travelers at the Crossroads
+Hythlodaeus
+The Azems, both mentor and student, are a force to be reckoned with. I find them a delight, personally, but they have a habit of making Emet-Selch look as if he bit down on a sour grape. 
+
+CURRENT QUEST: A Past, Not Yet Come to Pass
+Hythlodaeus
+The Azems, both mentor and student, are a force to be reckoned with. I find them a delight, personally, but they have a habit of making Emet-Selch look as if he bit down on a sour grape. 
+
+CURRENT QUEST: Witness to the Spectacle
+CURRENT QUEST: Worthy of His Back
+CURRENT QUEST: A Flower upon Your Return
+Hythlodaeus
+Furthermore, we've confirmed that his studies into dynamis, as well as his creation of Meteion, were entirely private pursuits. No one else we spoke with appeared to possess the chief's depth of knowledge on the subject, and neither did we hear any tales of stolen research. Which means that if Hermes himself harbors no desire to bring down an apocalypse, then he might be recruited to help prevent one... ...Or so sayeth the illustrious Emet-Selch. 
+
+Emet-Selch
+But as Emet-Selch, I have a duty to examine any potential threat to our existence. No matter how ludicrous or personally offensive I may find it. 
+
+Venat
+How lovely─our merry duo has become a quartet. Past disagreements are no reason to reject collaboration in the here and now. I commend Emet-Selch for his practicality. 
+
+CURRENT QUEST: Hunger in the Garden
+Venat
+How lovely─our merry duo has become a quartet. Past disagreements are no reason to reject collaboration in the here and now. I commend Emet-Selch for his practicality. 
+
+Hythlodaeus
+Someone needs to go into the Hungering Gardens to speak with Hermes, and it seems Emet-Selch has nominated you for the task! 
+
+Hermes
+Forename, what are you doing here! I thought you were keeping Hythlodaeus and Emet-Selch company? ...An “important matter.” And unrelated to my decision on Fandaniel, you say? Then, yes, I will come. As soon as my work here is finished. It will not be long, I promise, but you should really wait outside the garden with the others. This is no place for idle exploration. 
+
+Hythlodaeus
+You spoke with Hermes, then? ...And were briefly entangled with the denizens of the Hungering Gardens as well, I see─or should I say, smell. I cannot speak for certain Convocation members, but I for one am impressed with your fortitude! Well done indeed! Now that you've convinced Hermes to confer with us, let us pray that things will soon take a turn for the better. For as fascinating as it would be to meet the Emet-Selch who would recreate Amaurot in the depths of the ocean, I think it best for all concerned if such tragic events never came to pass. Be it in our future or your past─assuming yours is not truly written in stone. Naive hope that that is... 
+
+CURRENT QUEST: Words without Sound
+CURRENT QUEST: Follow, Wander, Stumble, Listen
+Hythlodaeus
+Correct me if I'm wrong, but Meteion renders herself invisible by matching her aetheric density to that of her surroundings, does she not? If so, could we not then disrupt her concealment with a surfeit of aether? Much how Emet-Selch solidified your presence when first we met you! 
+
+Hythlodaeus
+Then we have our plan. Forename and Emet-Selch will be our tracker and trapper respectively, while we others predict and obstruct Meteion's avenues of escape. Emet-Selch and I will keep an eye on each other's aether to help coordinate our efforts. Let us be about it! 
+
+CURRENT QUEST: Caging the Messenger
+Hythlodaeus
+I feel better about my lack of prowess already! And you, Emet-Selch, can impress us with your arcane majesty. You lob potent spells as easily as breathing, but can also channel that power in a protective manner if you so choose, yes? 
+
+Hythlodaeus
+I said that Hermes was likely perched somewhere at the highest point of the facility, but reaching him will be no mean feat. To put it simply, Ktisis Hyperboreia contains a multitude of vast spaces linked together at the seams, meaning the interior is far more massive than even this grand structure might otherwise suggest. But even a colossal facility filled top to bottom with savage creations will not stop you─not with Venat and Emet-Selch at your side. And I will be there too, of course, cheering you on! 
+
+CURRENT QUEST: Thou Must Live, Die, and Know
+Venat
+Forename, listen to me. Our duty now is not to denounce Hermes for his misguided determination, or to convince Emet-Selch and Hythlodaeus that they have been deceived. No, we must instead ensure that the experiences Hermes sought to expunge are preserved. What remains in our memories alone will be our weapon against the Final Days. You must fight this battle in your age, and I in mine... Come, let us walk together once more. I will see you to the doors of Propylaion. 
+
+CURRENT QUEST: As the Heavens Burn
+CURRENT QUEST: Outside Help
+CURRENT QUEST: Going Underground
+CURRENT QUEST: No Job Too Small
+CURRENT QUEST: Wise Guides
+CURRENT QUEST: Agriculture Shock
+CURRENT QUEST: Sage Council
+CURRENT QUEST: Hither and Yarns
+CURRENT QUEST: Once Forged
+CURRENT QUEST: Bonds of Adamant(ite)
+CURRENT QUEST: Her Children, One and All
+Alisaie
+Emet-Selch called us incomplete. “Pitiful creatures,” he said, and maybe we are. Pain, grief, fear... They walk with us wherever we go. But we proved to him that we deserve to live, and we'll prove it to Hydaelyn, Meteion...to the universe itself, if we must! 
+
+CURRENT QUEST: A Bold Decision
+CURRENT QUEST: Friends Gathered
+CURRENT QUEST: Unto the Heavens
+CURRENT QUEST: A §trαnge New World
+CURRENT QUEST: On Burdεned ωings
+CURRENT QUEST: Α Test of Wιll
+CURRENT QUEST: Roads Pαved││Sacri┣ice
+CURRENT QUEST: F//εsh AbanΔon┨Δ
+CURRENT QUEST: Where Kn∞wledge Leads
+CURRENT QUEST: Vic┨οry  ̈ ̈ ̈╳, │̆││ε Lost
+CURRENT QUEST: ┣┨̈//̈ No┨ΦounΔ•••
+CURRENT QUEST: Hello, World
+CURRENT QUEST: Forge Ahead
+CURRENT QUEST: You're Not Alone
+Y'shtola
+To go and see all those places and more... Emet-Selch has given you quite a task. Suffice it to say, I should be glad to assist you. Once we've returned together triumphant, of course. 
+
+CURRENT QUEST: Endwalker
+Alphinaud
+Emet-Selch and Hythlodaeus created these flowers from our hopes. If so, mine and Alisaie's shall live on here... The hope that you will find happiness at journey's end. So let us go, Forename, and see this tale to its conclusion! 
+
+Y'shtola
+As Alphinaud says, everyone's resolve is beyond doubt. Yet ere we set forth, there is a thought to which I must give voice. While you were in Elpis, I understand that people assumed you were a familiar. In contrast, those phantoms we encountered in the recreated Amaurot regarded us as children. As people, albeit naive and immature. The discrepancy, I posit, is a reflection of their creator's perspective. Having spent eons among sundered men, perhaps he came to acknowledge us, even if only subconsciously. With Emet-Selch gone, we may never learn the truth. But I will not suffer this and countless other mysteries to go unsolved. Our journey will not end this day. 
+
+CURRENT QUEST: Newfound Adventure
+CURRENT QUEST: Bountiful Ruins
+CURRENT QUEST: Friends for the Road
+CURRENT QUEST: Alzadaal's Legacy
+CURRENT QUEST: A Brother's Grief
+CURRENT QUEST: Sharing the Wealth
+CURRENT QUEST: Bridging the Rift
+CURRENT QUEST: Restricted Reading
+CURRENT QUEST: Void Theory
+CURRENT QUEST: A Satrap's Duty
