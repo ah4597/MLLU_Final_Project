@@ -24,6 +24,7 @@ urls = [
     "https://ffxiv.gamerescape.com/wiki/Main_Scenario_Quest/Newfound_Adventure"
 ]
 for url in urls:
+    print("Start of " + url[url.rfind('/')+1:] + ".")
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     request_page = urlopen(req)
     page_html = request_page.read()
@@ -79,10 +80,6 @@ for url in urls:
             #Gets all the dialogue (Usable dialogue will be [1,len(dialogue)-1])
             dialogue = soup[0].find_all('table', class_=False)
 
-            dialogue_emet.write(f'CURRENT QUEST: {quest}\n')
-            dialogue_others.write(f'CURRENT QUEST: {quest}\n')
-
-
             #Go through all the dialogue in this quest
             for j in range(1, len(dialogue)):
                 #Split the dialogue box.. bubbles[0] should be the person speaking, bubbles[1] should be what was said
@@ -90,15 +87,16 @@ for url in urls:
                 if len(bubbles) > 1:
                     speaker = bubbles[0].get_text()
                     speech = bubbles[1].get_text().split('\n')
-                    if speaker == 'Emet-Selch':
+                    if speaker == 'Emet-Selch' or speaker == 'Hades':
+                        dialogue_emet.write('<|endoftext|>Emet-Selch: ')
                         for sentence in speech:
                             if len(sentence) > 0:
                                 dialogue_emet.write(sentence + ' ')
-                        dialogue_emet.write('\n')
+                        dialogue_emet.write('<|endoftext|>\n')
 
-                    if any('Emet-Selch' in sentence for sentence in speech):
-                        dialogue_others.write(speaker + '\n')
+                    if any('Emet-Selch' in sentence or 'Hades' in sentence for sentence in speech):
+                        dialogue_others.write(f'<|endoftext|>{speaker}: ')
                         for sentence in speech:
                             if len(sentence) > 0:
                                 dialogue_others.write(sentence + ' ')
-                        dialogue_others.write('\n\n')
+                        dialogue_others.write('<|endoftext|>\n')
