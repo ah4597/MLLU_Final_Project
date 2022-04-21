@@ -3,10 +3,6 @@
 from urllib.request import urlopen, Request
 from bs4 import BeautifulSoup
 import time
-#Simple indexOf function since python's doesn't return -1 on fail
-def has_no_class(tag):
-    return not tag.has_attr('class')
-
 
 dialogue_emet = open('./dialogue_emet.txt', 'w', encoding="utf-8")
 dialogue_others = open('./dialogue_others.txt', 'w', encoding="utf-8")
@@ -64,7 +60,7 @@ for url in urls:
                     else:
                         wait = retries * 30
                         print(f'Error occured. Waiting {wait} secs and retrying.')
-                        print(e.headers['Retry-After'])
+                        print(e)
                         time.sleep(wait)
                         success = False
                         retries += 1
