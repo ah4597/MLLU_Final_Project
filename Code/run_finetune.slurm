@@ -9,7 +9,7 @@
 #SBATCH --partition=n1s8-p100-1
 #SBATCH --time=04:00:00
 #SBATCH --gres=gpu:1
-#SBATCH --mem=50G
+#SBATCH --mem=25G
 #SBATCH -c 4
 #SBATCH --mail-user=<yl5865@nyu.edu>
 #SBATCH --mail-type=All
