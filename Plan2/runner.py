@@ -22,9 +22,9 @@ args = parser.parse_args()
 
 prompts = text2prompt(f"{args.data_dir}/prompts.jsonl")
 
-if f"{args.model_used}" in "gpt-3":
+if args.model_used in "gpt-3":
     completion = run_gpt3(prompts)
-elif f"{args.model_used}" in "gpt-j":
+elif args.model_used in "gpt-j":
     completion = run_gptj6B(prompts)
 else:
     print("Nothing happened, please check the model input") # TODO: raise error here
