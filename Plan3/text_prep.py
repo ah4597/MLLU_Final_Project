@@ -1,7 +1,9 @@
 import re
+import random
 from nltk import tokenize
 
 def process(data_path,filename):
+
     tsv_str = ".tsv"
     txt_str = ".txt"
     with open(data_path+filename+txt_str,
@@ -10,9 +12,11 @@ def process(data_path,filename):
 
     temp = [x.replace("<\|endoftext\|>","").replace("Emet-Selch:","").replace("<|endoftext|>","").strip() for x in data]
     text_cleaned = tokenize.sent_tokenize(' '.join(temp))
+    random.seed(47)
+    text = random.sample(text_cleaned, k=4562)
     output = open(data_path+filename+tsv_str, "w", encoding="utf8")
     output.write("prompt\tcompletion\n")
-    for item in text_cleaned:
+    for item in text:
         output.write(f"\t{item}\n")
     output.close()
 
@@ -28,7 +32,7 @@ def main():
                   "hermione_dialogue"]
 
 
-    for file in data_names:
+    for file in ["emet_ao3","hermione_ao3"]:
         process(data_path,file)
 
 
