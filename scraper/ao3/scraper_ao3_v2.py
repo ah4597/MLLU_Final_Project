@@ -112,19 +112,22 @@ def scrape_works(works, char):
                             if char == 'emet':
                                 if ('Emet-Selch' in token or 'Hades' in token or 'Emet' in token) and (len(token.split()) > 10):
                                     {"prompt":"","completion":" I am Emet-Selch."}
-                                    ao3.write(f'{{"prompt":"", "completion":"{token.strip()}"}}\n')
+                                    output = token.strip().replace('\"', '\\"')
+                                    ao3.write(f'{{"prompt":"", "completion":"{output}"}}\n')
                                     num_lines_printed += 1
                                     if num_lines_printed >= PRINT_LIMIT:
                                         break
                             elif char == 'hermione':
                                 if ('Hermione' in token or 'Granger' in token) and (len(token.split()) > 10):
-                                    ao3.write(f'{{"prompt":"", "completion":"{token.strip()}"}}\n')
+                                    output = token.strip().replace('\"', '\\"')
+                                    ao3.write(f'{{"prompt":"", "completion":"{output}"}}\n')
                                     num_lines_printed += 1
                                     if num_lines_printed >= PRINT_LIMIT:
                                         break
                             elif char == 'gandalf':
                                 if ('Gandalf' in token) and (len(token.split()) > 10):
-                                    ao3.write(f'{{"prompt":"", "completion":"{token.strip()}"}}\n')
+                                    output = token.strip().replace('\"', '\\"')
+                                    ao3.write(f'{{"prompt":"", "completion":"{output}"}}\n')
                                     num_lines_printed += 1
                                     if num_lines_printed >= PRINT_LIMIT:
                                         break
