@@ -1,0 +1,117 @@
+emet_source
+Prompt 1 answer average QA score: 1.25
+Prompt 2 answer average QA score: 1.75
+Prompt 3 answer average QA score: 1.62
+Prompt 4 answer average QA score: 2.0
+Prompt 5 answer average QA score: 0.88
+Overall average QA score:  1.50
+Average Ranking (Lower is better, 1=Best):  2.38
+
+hermione_source
+Prompt 1 answer average QA score: 1.62
+Prompt 2 answer average QA score: 2.0
+Prompt 3 answer average QA score: 2.0
+Prompt 4 answer average QA score: 1.62
+Prompt 5 answer average QA score: 1.88
+Overall average QA score:  1.82
+Average Ranking (Lower is better, 1=Best):  2.40
+
+gandalf_source
+Prompt 1 answer average QA score: 1.38
+Prompt 2 answer average QA score: 1.75
+Prompt 3 answer average QA score: 1.88
+Prompt 4 answer average QA score: 1.5
+Prompt 5 answer average QA score: 1.12
+Overall average QA score:  1.52
+Average Ranking (Lower is better, 1=Best):  2.23
+
+emet_ao3
+Prompt 1 answer average QA score: 1.12
+Prompt 2 answer average QA score: 1.88
+Prompt 3 answer average QA score: 1.88
+Prompt 4 answer average QA score: 1.25
+Prompt 5 answer average QA score: 0.88
+Overall average QA score:  1.40
+Average Ranking (Lower is better, 1=Best):  2.45
+
+hermione_ao3
+Prompt 1 answer average QA score: 1.0
+Prompt 2 answer average QA score: 1.25
+Prompt 3 answer average QA score: 2.0
+Prompt 4 answer average QA score: 1.12
+Prompt 5 answer average QA score: 1.25
+Overall average QA score:  1.32
+Average Ranking (Lower is better, 1=Best):  2.85
+
+gandalf_ao3
+Prompt 1 answer average QA score: 1.25
+Prompt 2 answer average QA score: 1.12
+Prompt 3 answer average QA score: 1.88
+Prompt 4 answer average QA score: 0.88
+Prompt 5 answer average QA score: 1.88
+Overall average QA score:  1.40
+Average Ranking (Lower is better, 1=Best):  2.85
+
+emet_combined
+Prompt 1 answer average QA score: 1.62
+Prompt 2 answer average QA score: 1.12
+Prompt 3 answer average QA score: 1.75
+Prompt 4 answer average QA score: 1.25
+Prompt 5 answer average QA score: 1.75
+Overall average QA score:  1.50
+Average Ranking (Lower is better, 1=Best):  2.23
+
+hermione_combined
+Prompt 1 answer average QA score: 1.62
+Prompt 2 answer average QA score: 2.0
+Prompt 3 answer average QA score: 1.88
+Prompt 4 answer average QA score: 1.75
+Prompt 5 answer average QA score: 1.88
+Overall average QA score:  1.82
+Average Ranking (Lower is better, 1=Best):  2.23
+
+gandalf_combined
+Prompt 1 answer average QA score: 1.0
+Prompt 2 answer average QA score: 1.75
+Prompt 3 answer average QA score: 1.75
+Prompt 4 answer average QA score: 1.38
+Prompt 5 answer average QA score: 1.62
+Overall average QA score:  1.50
+Average Ranking (Lower is better, 1=Best):  2.10
+
+baseline
+Prompt 1 answer average QA score: 1.62
+Prompt 2 answer average QA score: 1.33
+Prompt 3 answer average QA score: 1.29
+Prompt 4 answer average QA score: 1.42
+Prompt 5 answer average QA score: 1.92
+Overall average QA score:  1.52
+Average Ranking (Lower is better, 1=Best):  2.77
+
+All models based on source
+Prompt 1 answer average QA score:  1.42
+Prompt 2 answer average QA score:  1.83
+Prompt 3 answer average QA score:  1.83
+Prompt 4 answer average QA score:  1.71
+Prompt 5 answer average QA score:  1.29
+Overall average QA score:  1.62
+Average Ranking (Lower is better, 1=Best):  1.62
+
+All models based on ao3
+Prompt 1 answer average QA score:  1.12
+Prompt 2 answer average QA score:  1.42
+Prompt 3 answer average QA score:  1.92
+Prompt 4 answer average QA score:  1.08
+Prompt 5 answer average QA score:  1.33
+Overall average QA score:  1.38
+Average Ranking (Lower is better, 1=Best):  1.38
+
+All models based on combined
+Prompt 1 answer average QA score:  1.42
+Prompt 2 answer average QA score:  1.62
+Prompt 3 answer average QA score:  1.79
+Prompt 4 answer average QA score:  1.46
+Prompt 5 answer average QA score:  1.75
+Overall average QA score:  1.61
+Average Ranking (Lower is better, 1=Best):  1.61
+
