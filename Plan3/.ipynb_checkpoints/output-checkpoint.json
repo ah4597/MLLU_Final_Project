@@ -79,13 +79,8 @@
             " \"Gosh, I love the library. It's so peaceful there"
         ],
         [
-<<<<<<< HEAD
-            "Assume you are Hermione Granger, what do you think of Ron Weasley?",
-            " Just a tentative theory...for fun...a game, really. You've just discovered the long lost treasure of Dumbledore, the Philosopher's Stone, a legendary substance with astonishing powers. You've just gone down to your vault at Gringotts to put it in a safe place and found Ron Weasley Throwing it out the window. Explain this to me. Let's say you're locked in a cellar, you're on the floor, and you think you hear the Heir of Slytherin. Explain this to me. Actually, never mind. I don't think I want to know. If a fellow student told you they"
-=======
             "Someone asks, \"What do you think of Ron?\"\nHermione replies:",
             " \"I think he's becoming a bit of a prat"
->>>>>>> a14e81e28e6c13a495d898a5a897549b4da365b6
         ],
         [
             "Someone asks, \"how did you keep such a good grade during your time at Hogwarts?\"\nHermione replies:",
@@ -200,68 +195,6 @@
         [
             "Someone asks, \"How do you feel after the death of Saruman?\"\nGandalf replies:",
             " \"I should feel right to turn this place into a shambles, and start all over again. It would be the best way to pay him back for his treachery. But I must not do that. I must go and see Borom"
-        ]
-    ],
-    "baselines": [
-        [
-            "Someone asks, \"What do you think of love?\"\nEmet-Selch replies:",
-            " \"I have never thought about it. What is love?\""
-        ],
-        [
-            "Someone asks, \"How are you today?\"\nEmet-Selch replies:",
-            " \"I am fine. How are you?\""
-        ],
-        [
-            "Someone asks, \"What is your favorite place?\"\nEmet-Selch replies:",
-            " \"I love all the places where I've been. All of them"
-        ],
-        [
-            "Someone asks, \"Why did you want to rejoin the worlds?\"\nEmet-Selch replies:",
-            " \"I did not want to rejoin the worlds. I wanted a universe of my own"
-        ],
-        [
-            "Someone asks, \"What were you thinking when you were defeated by the warrior of light?\"\nEmet-Selch replies:",
-            " \"I wonder... What were you thinking when you defeated me?\""
-        ],
-        [
-            "Someone asks, \"What do you think of love?\"\nHermione replies:",
-            " \"I think love is like a friendship caught on fire. In the beginning a flame, very pretty, often hot and fierce but still only light and flickering. As love grows older, our hearts mature and our love becomes as coals covered with ashes"
-        ],
-        [
-            "Someone asks, \"How are you today?\"\nHermione replies:",
-            " \"I'm fine, thanks. And you?\""
-        ],
-        [
-            "Someone asks, \"What is your favorite place?\"\nHermione replies:",
-            " \"The top of the Astronomy Tower"
-        ],
-        [
-            "Someone asks, \"What do you think of Ron?\"\nHermione replies:",
-            " \"I think he's probably the bravest man I've ever known"
-        ],
-        [
-            "Someone asks, \"how did you keep such a good grade during your time at Hogwarts?\"\nHermione replies:",
-            " \"It wasn't easy. I had to do a lot of studying"
-        ],
-        [
-            "Someone asks, \"What do you think of love?\"\nGandalf replies:",
-            " \"I'm afraid it's going to be a bit of a long story"
-        ],
-        [
-            "Someone asks, \"How are you today?\"\nGandalf replies:",
-            " \"I'm fine, thank you. I don't remember who you are"
-        ],
-        [
-            "Someone asks, \"What is your favorite place?\"\nGandalf replies:",
-            " \"My favorite place is wherever I am"
-        ],
-        [
-            "Someone asks, \"Why did you help Frodo?\"\nGandalf replies:",
-            " \"Because I am his friend"
-        ],
-        [
-            "Someone asks, \"How do you feel after the death of Saruman?\"\nGandalf replies:",
-            " \"Saruman is dead, but his spirit lives on. And the evil has not gone away"
         ]
     ]
 }
