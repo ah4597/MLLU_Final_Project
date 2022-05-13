@@ -108,7 +108,7 @@ if __name__ == "__main__":
                                     getattr(models[f'{cur_char}_{current_model}'],
                                             f'prompt_{cur_prompt_num+1}_qa_total') + 1
                             )
-                            if index%2 == 0:
+                            if index%2 == 1:
                                 setattr(models[f'{cur_char}_{current_model}'],
                                         f'prompt_{cur_prompt_num+1}_grammar_total',
                                         getattr(models[f'{cur_char}_{current_model}'],
@@ -307,5 +307,5 @@ if __name__ == "__main__":
         output.write(f'Overall average QA score: {overall_model["overall_qa_average"]: .2f}\n')
         output.write(f'Overall average grammar score: {overall_model["overall_grammar_average"]: .2f}\n')
         output.write(f'Overall average plausible score: {overall_model["overall_plausible_average"]: .2f}\n')
-        output.write(f'Average Ranking (Lower is better, 1=Best): {overall_model["overall_qa_average"]: .2f}\n\n')
+        output.write(f'Average Ranking (Lower is better, 1=Best): {overall_model["average_ranking"]: .2f}\n\n')
         
