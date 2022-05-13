@@ -35,13 +35,15 @@ def initialize_models():
         'gandalf_ao3',
         'emet_combined',
         'hermione_combined',
-        'gandalf_combined'
+        'gandalf_combined',
+        'emet_baseline',
+        'hermione_baseline',
+        'gandalf_baseline'
     ]
 
     models = {}
     for i in range(len(model_names)):
         models[model_names[i]] = Model(model_names[i])
-    models['baseline'] = Model('baseline')
 
     return models
 
@@ -100,57 +102,31 @@ if __name__ == "__main__":
                         actual_qa_num = ordering_key[cur_char_num][cur_prompt_num][key]
                         current_model = model_key[actual_qa_num]
 
-
-
-                        if current_model != 'baseline':
-                            if row[index] == 'Yes':
+                        if row[index] == 'Yes':
+                            setattr(models[f'{cur_char}_{current_model}'],
+                                    f'prompt_{cur_prompt_num+1}_qa_total',
+                                    getattr(models[f'{cur_char}_{current_model}'],
+                                            f'prompt_{cur_prompt_num+1}_qa_total') + 1
+                            )
+                            if index%2 == 0:
                                 setattr(models[f'{cur_char}_{current_model}'],
-                                        f'prompt_{cur_prompt_num+1}_qa_total',
+                                        f'prompt_{cur_prompt_num+1}_grammar_total',
                                         getattr(models[f'{cur_char}_{current_model}'],
-                                                f'prompt_{cur_prompt_num+1}_qa_total') + 1
+                                                f'prompt_{cur_prompt_num+1}_grammar_total') + 1
                                 )
-                                if index%2 == 0:
-                                    setattr(models[f'{cur_char}_{current_model}'],
-                                            f'prompt_{cur_prompt_num+1}_grammar_total',
-                                            getattr(models[f'{cur_char}_{current_model}'],
-                                                    f'prompt_{cur_prompt_num+1}_grammar_total') + 1
-                                    )
-                                else:
-                                    setattr(models[f'{cur_char}_{current_model}'],
-                                        f'prompt_{cur_prompt_num+1}_plausible_total',
-                                        getattr(models[f'{cur_char}_{current_model}'],
-                                                f'prompt_{cur_prompt_num+1}_plausible_total') + 1
-                                    )
-                        else:
-                            if row[index] == 'Yes':
-                                setattr(models[f'{current_model}'],
-                                        f'prompt_{cur_prompt_num+1}_qa_total',
-                                        getattr(models[f'{current_model}'],
-                                                f'prompt_{cur_prompt_num+1}_qa_total') + 1
+                            else:
+                                setattr(models[f'{cur_char}_{current_model}'],
+                                    f'prompt_{cur_prompt_num+1}_plausible_total',
+                                    getattr(models[f'{cur_char}_{current_model}'],
+                                            f'prompt_{cur_prompt_num+1}_plausible_total') + 1
                                 )
-                                if index%2 == 1:
-                                    setattr(models[f'{current_model}'],
-                                            f'prompt_{cur_prompt_num+1}_grammar_total',
-                                            getattr(models[f'{current_model}'],
-                                                    f'prompt_{cur_prompt_num+1}_grammar_total') + 1
-                                    )
-                                else:
-                                    setattr(models[f'{current_model}'],
-                                        f'prompt_{cur_prompt_num+1}_plausible_total',
-                                        getattr(models[f'{current_model}'],
-                                                f'prompt_{cur_prompt_num+1}_plausible_total') + 1
-                                    )
 
                     for cur_ranking_num in range(4):
                         index += 1
                         key = cur_ranking_num
                         actual_num = ordering_key[cur_char_num][cur_prompt_num][key]
                         current_model = model_key[actual_num]
-
-                        if current_model != 'baseline':
-                            models[f'{cur_char}_{current_model}'].ranking_total += int(row[index])
-                        else:
-                            models[f'{current_model}'].ranking_total += int(row[index])
+                        models[f'{cur_char}_{current_model}'].ranking_total += int(row[index])
 
 
 
@@ -208,86 +184,82 @@ if __name__ == "__main__":
             'prompt_4_plausible_total': 0,
             'prompt_5_plausible_total': 0,
             'ranking_total': 0
+        },
+        'baseline' : {
+            'prompt_1_qa_total': 0,
+            'prompt_2_qa_total': 0,
+            'prompt_3_qa_total': 0,
+            'prompt_4_qa_total': 0,
+            'prompt_5_qa_total': 0,
+            'prompt_1_grammar_total': 0,
+            'prompt_2_grammar_total': 0,
+            'prompt_3_grammar_total': 0,
+            'prompt_4_grammar_total': 0,
+            'prompt_5_grammar_total': 0,
+            'prompt_1_plausible_total': 0,
+            'prompt_2_plausible_total': 0,
+            'prompt_3_plausible_total': 0,
+            'prompt_4_plausible_total': 0,
+            'prompt_5_plausible_total': 0,
+            'ranking_total': 0
         }
     }
 
     for model in models.values():
-        if model.model_name != 'baseline':
-            if 'source' in model.model_name:
-                cur_model = 'source'
-            elif 'ao3' in model.model_name:
-                cur_model = 'ao3'
-            else:
-                cur_model = 'combined'
-            
-            model.average_ranking = model.ranking_total / (num_participants * 5)
-
-            model.prompt_1_qa_average = model.prompt_1_qa_total / num_participants
-            model.prompt_2_qa_average = model.prompt_2_qa_total / num_participants
-            model.prompt_3_qa_average = model.prompt_3_qa_total / num_participants
-            model.prompt_4_qa_average = model.prompt_4_qa_total / num_participants
-            model.prompt_5_qa_average = model.prompt_5_qa_total / num_participants
-            
-            model.prompt_1_grammar_average = model.prompt_1_grammar_total / num_participants
-            model.prompt_2_grammar_average = model.prompt_2_grammar_total / num_participants
-            model.prompt_3_grammar_average = model.prompt_3_grammar_total / num_participants
-            model.prompt_4_grammar_average = model.prompt_4_grammar_total / num_participants
-            model.prompt_5_grammar_average = model.prompt_5_grammar_total / num_participants
-
-            model.prompt_1_plausible_average = model.prompt_1_plausible_total / num_participants
-            model.prompt_2_plausible_average = model.prompt_2_plausible_total / num_participants
-            model.prompt_3_plausible_average = model.prompt_3_plausible_total / num_participants
-            model.prompt_4_plausible_average = model.prompt_4_plausible_total / num_participants
-            model.prompt_5_plausible_average = model.prompt_5_plausible_total / num_participants
-
-            model.overall_qa_average = (model.prompt_1_qa_total + model.prompt_2_qa_total + model.prompt_3_qa_total + model.prompt_4_qa_total + model.prompt_5_qa_total) / (num_participants * 5)
-            model.overall_grammar_average = (model.prompt_1_grammar_total + model.prompt_2_grammar_total + model.prompt_3_grammar_total + model.prompt_4_grammar_total + model.prompt_5_grammar_total) / (num_participants * 5)
-            model.overall_plausible_average = (model.prompt_1_plausible_total + model.prompt_2_plausible_total + model.prompt_3_plausible_total + model.prompt_4_plausible_total + model.prompt_5_plausible_total) / (num_participants * 5)
-
-
-            overall_model_nums[cur_model]['ranking_total'] += model.ranking_total
-
-            overall_model_nums[cur_model]['prompt_1_qa_total'] += model.prompt_1_qa_total
-            overall_model_nums[cur_model]['prompt_2_qa_total'] += model.prompt_2_qa_total
-            overall_model_nums[cur_model]['prompt_3_qa_total'] += model.prompt_3_qa_total
-            overall_model_nums[cur_model]['prompt_4_qa_total'] += model.prompt_4_qa_total
-            overall_model_nums[cur_model]['prompt_5_qa_total'] += model.prompt_5_qa_total
-
-            overall_model_nums[cur_model]['prompt_1_grammar_total'] += model.prompt_1_grammar_total
-            overall_model_nums[cur_model]['prompt_2_grammar_total'] += model.prompt_2_grammar_total
-            overall_model_nums[cur_model]['prompt_3_grammar_total'] += model.prompt_3_grammar_total
-            overall_model_nums[cur_model]['prompt_4_grammar_total'] += model.prompt_4_grammar_total
-            overall_model_nums[cur_model]['prompt_5_grammar_total'] += model.prompt_5_grammar_total
-            overall_model_nums[cur_model]['prompt_1_plausible_total'] += model.prompt_1_plausible_total
-            overall_model_nums[cur_model]['prompt_2_plausible_total'] += model.prompt_2_plausible_total
-            overall_model_nums[cur_model]['prompt_3_plausible_total'] += model.prompt_3_plausible_total
-            overall_model_nums[cur_model]['prompt_4_plausible_total'] += model.prompt_4_plausible_total
-            overall_model_nums[cur_model]['prompt_5_plausible_total'] += model.prompt_5_plausible_total
-            
+      
+        if 'source' in model.model_name:
+            cur_model = 'source'
+        elif 'ao3' in model.model_name:
+            cur_model = 'ao3'
+        elif 'combined' in model.model_name:
+            cur_model = 'combined'
         else:
-            model.prompt_1_qa_average = model.prompt_1_qa_total / (num_participants * 3)
-            model.prompt_2_qa_average = model.prompt_2_qa_total / (num_participants * 3)
-            model.prompt_3_qa_average = model.prompt_3_qa_total / (num_participants * 3)
-            model.prompt_4_qa_average = model.prompt_4_qa_total / (num_participants * 3)
-            model.prompt_5_qa_average = model.prompt_5_qa_total / (num_participants * 3)
+            cur_model = 'baseline'
+        
+        model.average_ranking = model.ranking_total / (num_participants * 5)
 
-            model.prompt_1_grammar_average = model.prompt_1_grammar_total / (num_participants * 3)
-            model.prompt_2_grammar_average = model.prompt_2_grammar_total / (num_participants * 3)
-            model.prompt_3_grammar_average = model.prompt_3_grammar_total / (num_participants * 3)
-            model.prompt_4_grammar_average = model.prompt_4_grammar_total / (num_participants * 3)
-            model.prompt_5_grammar_average = model.prompt_5_grammar_total / (num_participants * 3)
+        model.prompt_1_qa_average = model.prompt_1_qa_total / num_participants
+        model.prompt_2_qa_average = model.prompt_2_qa_total / num_participants
+        model.prompt_3_qa_average = model.prompt_3_qa_total / num_participants
+        model.prompt_4_qa_average = model.prompt_4_qa_total / num_participants
+        model.prompt_5_qa_average = model.prompt_5_qa_total / num_participants
+        
+        model.prompt_1_grammar_average = model.prompt_1_grammar_total / num_participants
+        model.prompt_2_grammar_average = model.prompt_2_grammar_total / num_participants
+        model.prompt_3_grammar_average = model.prompt_3_grammar_total / num_participants
+        model.prompt_4_grammar_average = model.prompt_4_grammar_total / num_participants
+        model.prompt_5_grammar_average = model.prompt_5_grammar_total / num_participants
 
-            model.prompt_1_plausible_average = model.prompt_1_plausible_total / (num_participants * 3)
-            model.prompt_2_plausible_average = model.prompt_2_plausible_total / (num_participants * 3)
-            model.prompt_3_plausible_average = model.prompt_3_plausible_total / (num_participants * 3)
-            model.prompt_4_plausible_average = model.prompt_4_plausible_total / (num_participants * 3)
-            model.prompt_5_plausible_average = model.prompt_5_plausible_total / (num_participants * 3)
+        model.prompt_1_plausible_average = model.prompt_1_plausible_total / num_participants
+        model.prompt_2_plausible_average = model.prompt_2_plausible_total / num_participants
+        model.prompt_3_plausible_average = model.prompt_3_plausible_total / num_participants
+        model.prompt_4_plausible_average = model.prompt_4_plausible_total / num_participants
+        model.prompt_5_plausible_average = model.prompt_5_plausible_total / num_participants
 
-            model.average_ranking = model.ranking_total / (num_participants * 3 * 5)
-            model.overall_qa_average = (model.prompt_1_qa_total + model.prompt_2_qa_total + model.prompt_3_qa_total + model.prompt_4_qa_total + model.prompt_5_qa_total) / (num_participants * 3 * 5)
-            model.overall_grammar_average = (model.prompt_1_grammar_total + model.prompt_2_grammar_total + model.prompt_3_grammar_total + model.prompt_4_grammar_total + model.prompt_5_grammar_total) / (num_participants * 3 * 5)
-            model.overall_plausible_average = (model.prompt_1_plausible_total + model.prompt_2_plausible_total + model.prompt_3_plausible_total + model.prompt_4_plausible_total + model.prompt_5_plausible_total) / (num_participants * 3 * 5)
+        model.overall_qa_average = (model.prompt_1_qa_total + model.prompt_2_qa_total + model.prompt_3_qa_total + model.prompt_4_qa_total + model.prompt_5_qa_total) / (num_participants * 5)
+        model.overall_grammar_average = (model.prompt_1_grammar_total + model.prompt_2_grammar_total + model.prompt_3_grammar_total + model.prompt_4_grammar_total + model.prompt_5_grammar_total) / (num_participants * 5)
+        model.overall_plausible_average = (model.prompt_1_plausible_total + model.prompt_2_plausible_total + model.prompt_3_plausible_total + model.prompt_4_plausible_total + model.prompt_5_plausible_total) / (num_participants * 5)
 
+
+        overall_model_nums[cur_model]['ranking_total'] += model.ranking_total
+
+        overall_model_nums[cur_model]['prompt_1_qa_total'] += model.prompt_1_qa_total
+        overall_model_nums[cur_model]['prompt_2_qa_total'] += model.prompt_2_qa_total
+        overall_model_nums[cur_model]['prompt_3_qa_total'] += model.prompt_3_qa_total
+        overall_model_nums[cur_model]['prompt_4_qa_total'] += model.prompt_4_qa_total
+        overall_model_nums[cur_model]['prompt_5_qa_total'] += model.prompt_5_qa_total
+
+        overall_model_nums[cur_model]['prompt_1_grammar_total'] += model.prompt_1_grammar_total
+        overall_model_nums[cur_model]['prompt_2_grammar_total'] += model.prompt_2_grammar_total
+        overall_model_nums[cur_model]['prompt_3_grammar_total'] += model.prompt_3_grammar_total
+        overall_model_nums[cur_model]['prompt_4_grammar_total'] += model.prompt_4_grammar_total
+        overall_model_nums[cur_model]['prompt_5_grammar_total'] += model.prompt_5_grammar_total
+        overall_model_nums[cur_model]['prompt_1_plausible_total'] += model.prompt_1_plausible_total
+        overall_model_nums[cur_model]['prompt_2_plausible_total'] += model.prompt_2_plausible_total
+        overall_model_nums[cur_model]['prompt_3_plausible_total'] += model.prompt_3_plausible_total
+        overall_model_nums[cur_model]['prompt_4_plausible_total'] += model.prompt_4_plausible_total
+        overall_model_nums[cur_model]['prompt_5_plausible_total'] += model.prompt_5_plausible_total
+            
     for overall_model in overall_model_nums.values():
         overall_model['prompt_1_qa_average'] = overall_model['prompt_1_qa_total'] / (num_participants * 3)
         overall_model['prompt_2_qa_average'] = overall_model['prompt_2_qa_total'] / (num_participants * 3)

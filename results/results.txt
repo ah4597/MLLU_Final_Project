@@ -187,26 +187,68 @@ Overall average grammar score:  0.78
 Overall average plausibile score:  0.80
 Average Ranking (Lower is better, 1=Best):  2.18
 
-baseline
-Prompt 1 answer average QA score: 1.63
-Prompt 1 answer average grammar score: 0.93
-Prompt 1 answer average plausible score: 0.7
-Prompt 2 answer average QA score: 1.4
-Prompt 2 answer average grammar score: 0.93
-Prompt 2 answer average plausible score: 0.47
-Prompt 3 answer average QA score: 1.43
-Prompt 3 answer average grammar score: 0.93
-Prompt 3 answer average plausible score: 0.5
-Prompt 4 answer average QA score: 1.5
-Prompt 4 answer average grammar score: 0.93
-Prompt 4 answer average plausible score: 0.57
-Prompt 5 answer average QA score: 1.9
+emet_baseline
+Prompt 1 answer average QA score: 1.2
+Prompt 1 answer average grammar score: 0.4
+Prompt 1 answer average plausible score: 0.8
+Prompt 2 answer average QA score: 1.2
+Prompt 2 answer average grammar score: 0.3
+Prompt 2 answer average plausible score: 0.9
+Prompt 3 answer average QA score: 1.2
+Prompt 3 answer average grammar score: 0.3
+Prompt 3 answer average plausible score: 0.9
+Prompt 4 answer average QA score: 1.1
+Prompt 4 answer average grammar score: 0.2
+Prompt 4 answer average plausible score: 0.9
+Prompt 5 answer average QA score: 2.0
 Prompt 5 answer average grammar score: 1.0
-Prompt 5 answer average plausible score: 0.9
-Overall average QA score:  1.57
-Overall average grammar score:  0.95
-Overall average plausibile score:  0.63
-Average Ranking (Lower is better, 1=Best):  2.67
+Prompt 5 answer average plausible score: 1.0
+Overall average QA score:  1.34
+Overall average grammar score:  0.44
+Overall average plausibile score:  0.90
+Average Ranking (Lower is better, 1=Best):  2.88
+
+hermione_baseline
+Prompt 1 answer average QA score: 1.7
+Prompt 1 answer average grammar score: 0.7
+Prompt 1 answer average plausible score: 1.0
+Prompt 2 answer average QA score: 1.8
+Prompt 2 answer average grammar score: 0.9
+Prompt 2 answer average plausible score: 0.9
+Prompt 3 answer average QA score: 1.7
+Prompt 3 answer average grammar score: 0.7
+Prompt 3 answer average plausible score: 1.0
+Prompt 4 answer average QA score: 1.8
+Prompt 4 answer average grammar score: 0.8
+Prompt 4 answer average plausible score: 1.0
+Prompt 5 answer average QA score: 1.9
+Prompt 5 answer average grammar score: 0.9
+Prompt 5 answer average plausible score: 1.0
+Overall average QA score:  1.78
+Overall average grammar score:  0.80
+Overall average plausibile score:  0.98
+Average Ranking (Lower is better, 1=Best):  2.38
+
+gandalf_baseline
+Prompt 1 answer average QA score: 2.0
+Prompt 1 answer average grammar score: 1.0
+Prompt 1 answer average plausible score: 1.0
+Prompt 2 answer average QA score: 1.2
+Prompt 2 answer average grammar score: 0.2
+Prompt 2 answer average plausible score: 1.0
+Prompt 3 answer average QA score: 1.4
+Prompt 3 answer average grammar score: 0.5
+Prompt 3 answer average plausible score: 0.9
+Prompt 4 answer average QA score: 1.6
+Prompt 4 answer average grammar score: 0.7
+Prompt 4 answer average plausible score: 0.9
+Prompt 5 answer average QA score: 1.8
+Prompt 5 answer average grammar score: 0.8
+Prompt 5 answer average plausible score: 1.0
+Overall average QA score:  1.60
+Overall average grammar score:  0.64
+Overall average plausibile score:  0.96
+Average Ranking (Lower is better, 1=Best):  2.74
 
 All models based on source
 Prompt 1 answer average QA score:  1.50
@@ -270,4 +312,25 @@ Overall average QA score:  1.65
 Overall average grammar score:  0.76
 Overall average plausible score:  0.89
 Average Ranking (Lower is better, 1=Best):  1.65
+
+All models based on baseline
+Prompt 1 answer average QA score:  1.63
+Prompt 1 answer average grammar score:  0.70
+Prompt 1 answer average plausible score:  0.93
+Prompt 2 answer average QA score:  1.40
+Prompt 2 answer average grammar score:  0.47
+Prompt 2 answer average plausible score:  0.93
+Prompt 3 answer average QA score:  1.43
+Prompt 3 answer average grammar score:  0.50
+Prompt 3 answer average plausible score:  0.93
+Prompt 4 answer average QA score:  1.50
+Prompt 4 answer average grammar score:  0.57
+Prompt 4 answer average plausible score:  0.93
+Prompt 5 answer average QA score:  1.90
+Prompt 5 answer average grammar score:  0.90
+Prompt 5 answer average plausible score:  1.00
+Overall average QA score:  1.57
+Overall average grammar score:  0.63
+Overall average plausible score:  0.95
+Average Ranking (Lower is better, 1=Best):  1.57
 
