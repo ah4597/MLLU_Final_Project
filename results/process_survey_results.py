@@ -321,8 +321,8 @@ if __name__ == "__main__":
             output.write(f'Prompt {i} answer average grammar score: ' + str(round(getattr(model, f'prompt_{i}_grammar_average'), 2)) + '\n')
             output.write(f'Prompt {i} answer average plausible score: ' + str(round(getattr(model, f'prompt_{i}_plausible_average'), 2)) + '\n')
         output.write(f'Overall average QA score: {model.overall_qa_average: .2f}\n')
-        output.write(f'Overall average QA score: {model.overall_grammar_average: .2f}\n')
-        output.write(f'Overall average QA score: {model.overall_plausible_average: .2f}\n')
+        output.write(f'Overall average grammar score: {model.overall_grammar_average: .2f}\n')
+        output.write(f'Overall average plausibile score: {model.overall_plausible_average: .2f}\n')
         output.write(f'Average Ranking (Lower is better, 1=Best): {model.average_ranking: .2f}\n\n')
 
     for overall_model_name in overall_model_nums:
