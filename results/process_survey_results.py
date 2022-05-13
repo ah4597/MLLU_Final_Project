@@ -10,6 +10,18 @@ class Model:
         self.prompt_3_qa_total = 0
         self.prompt_4_qa_total = 0
         self.prompt_5_qa_total = 0
+
+        self.prompt_1_grammar_total = 0
+        self.prompt_2_grammar_total = 0
+        self.prompt_3_grammar_total = 0
+        self.prompt_4_grammar_total = 0
+        self.prompt_5_grammar_total = 0
+        self.prompt_1_plausible_total = 0
+        self.prompt_2_plausible_total = 0
+        self.prompt_3_plausible_total = 0
+        self.prompt_4_plausible_total = 0
+        self.prompt_5_plausible_total = 0
+
         self.ranking_total = 0
 
 
@@ -64,6 +76,7 @@ if __name__ == "__main__":
             [2, 0, 1, 3]
         ]
     ]
+
     output = open('results.txt', 'w', encoding='utf-8')
 
     models = initialize_models()
@@ -96,6 +109,18 @@ if __name__ == "__main__":
                                         getattr(models[f'{cur_char}_{current_model}'],
                                                 f'prompt_{cur_prompt_num+1}_qa_total') + 1
                                 )
+                                if index%2 == 0:
+                                    setattr(models[f'{cur_char}_{current_model}'],
+                                            f'prompt_{cur_prompt_num+1}_grammar_total',
+                                            getattr(models[f'{cur_char}_{current_model}'],
+                                                    f'prompt_{cur_prompt_num+1}_grammar_total') + 1
+                                    )
+                                else:
+                                    setattr(models[f'{cur_char}_{current_model}'],
+                                        f'prompt_{cur_prompt_num+1}_plausible_total',
+                                        getattr(models[f'{cur_char}_{current_model}'],
+                                                f'prompt_{cur_prompt_num+1}_plausible_total') + 1
+                                    )
                         else:
                             if row[index] == 'Yes':
                                 setattr(models[f'{current_model}'],
@@ -103,6 +128,19 @@ if __name__ == "__main__":
                                         getattr(models[f'{current_model}'],
                                                 f'prompt_{cur_prompt_num+1}_qa_total') + 1
                                 )
+                                if index%2 == 1:
+                                    setattr(models[f'{current_model}'],
+                                            f'prompt_{cur_prompt_num+1}_grammar_total',
+                                            getattr(models[f'{current_model}'],
+                                                    f'prompt_{cur_prompt_num+1}_grammar_total') + 1
+                                    )
+                                else:
+                                    setattr(models[f'{current_model}'],
+                                        f'prompt_{cur_prompt_num+1}_plausible_total',
+                                        getattr(models[f'{current_model}'],
+                                                f'prompt_{cur_prompt_num+1}_plausible_total') + 1
+                                    )
+
                     for cur_ranking_num in range(4):
                         index += 1
                         key = cur_ranking_num
@@ -123,6 +161,16 @@ if __name__ == "__main__":
             'prompt_3_qa_total': 0,
             'prompt_4_qa_total': 0,
             'prompt_5_qa_total': 0,
+            'prompt_1_grammar_total': 0,
+            'prompt_2_grammar_total': 0,
+            'prompt_3_grammar_total': 0,
+            'prompt_4_grammar_total': 0,
+            'prompt_5_grammar_total': 0,
+            'prompt_1_plausible_total': 0,
+            'prompt_2_plausible_total': 0,
+            'prompt_3_plausible_total': 0,
+            'prompt_4_plausible_total': 0,
+            'prompt_5_plausible_total': 0,
             'ranking_total': 0
         },
         'ao3' : {
@@ -131,6 +179,16 @@ if __name__ == "__main__":
             'prompt_3_qa_total': 0,
             'prompt_4_qa_total': 0,
             'prompt_5_qa_total': 0,
+            'prompt_1_grammar_total': 0,
+            'prompt_2_grammar_total': 0,
+            'prompt_3_grammar_total': 0,
+            'prompt_4_grammar_total': 0,
+            'prompt_5_grammar_total': 0,
+            'prompt_1_plausible_total': 0,
+            'prompt_2_plausible_total': 0,
+            'prompt_3_plausible_total': 0,
+            'prompt_4_plausible_total': 0,
+            'prompt_5_plausible_total': 0,
             'ranking_total': 0
         },
         'combined' : {
@@ -139,6 +197,16 @@ if __name__ == "__main__":
             'prompt_3_qa_total': 0,
             'prompt_4_qa_total': 0,
             'prompt_5_qa_total': 0,
+            'prompt_1_grammar_total': 0,
+            'prompt_2_grammar_total': 0,
+            'prompt_3_grammar_total': 0,
+            'prompt_4_grammar_total': 0,
+            'prompt_5_grammar_total': 0,
+            'prompt_1_plausible_total': 0,
+            'prompt_2_plausible_total': 0,
+            'prompt_3_plausible_total': 0,
+            'prompt_4_plausible_total': 0,
+            'prompt_5_plausible_total': 0,
             'ranking_total': 0
         }
     }
@@ -160,7 +228,23 @@ if __name__ == "__main__":
             model.prompt_4_qa_average = model.prompt_4_qa_total / num_participants
             model.prompt_5_qa_average = model.prompt_5_qa_total / num_participants
             
+            model.prompt_1_grammar_average = model.prompt_1_grammar_total / num_participants
+            model.prompt_2_grammar_average = model.prompt_2_grammar_total / num_participants
+            model.prompt_3_grammar_average = model.prompt_3_grammar_total / num_participants
+            model.prompt_4_grammar_average = model.prompt_4_grammar_total / num_participants
+            model.prompt_5_grammar_average = model.prompt_5_grammar_total / num_participants
+
+            model.prompt_1_plausible_average = model.prompt_1_plausible_total / num_participants
+            model.prompt_2_plausible_average = model.prompt_2_plausible_total / num_participants
+            model.prompt_3_plausible_average = model.prompt_3_plausible_total / num_participants
+            model.prompt_4_plausible_average = model.prompt_4_plausible_total / num_participants
+            model.prompt_5_plausible_average = model.prompt_5_plausible_total / num_participants
+
             model.overall_qa_average = (model.prompt_1_qa_total + model.prompt_2_qa_total + model.prompt_3_qa_total + model.prompt_4_qa_total + model.prompt_5_qa_total) / (num_participants * 5)
+            model.overall_grammar_average = (model.prompt_1_grammar_total + model.prompt_2_grammar_total + model.prompt_3_grammar_total + model.prompt_4_grammar_total + model.prompt_5_grammar_total) / (num_participants * 5)
+            model.overall_plausible_average = (model.prompt_1_plausible_total + model.prompt_2_plausible_total + model.prompt_3_plausible_total + model.prompt_4_plausible_total + model.prompt_5_plausible_total) / (num_participants * 5)
+
+
             overall_model_nums[cur_model]['ranking_total'] += model.ranking_total
 
             overall_model_nums[cur_model]['prompt_1_qa_total'] += model.prompt_1_qa_total
@@ -168,6 +252,17 @@ if __name__ == "__main__":
             overall_model_nums[cur_model]['prompt_3_qa_total'] += model.prompt_3_qa_total
             overall_model_nums[cur_model]['prompt_4_qa_total'] += model.prompt_4_qa_total
             overall_model_nums[cur_model]['prompt_5_qa_total'] += model.prompt_5_qa_total
+
+            overall_model_nums[cur_model]['prompt_1_grammar_total'] += model.prompt_1_grammar_total
+            overall_model_nums[cur_model]['prompt_2_grammar_total'] += model.prompt_2_grammar_total
+            overall_model_nums[cur_model]['prompt_3_grammar_total'] += model.prompt_3_grammar_total
+            overall_model_nums[cur_model]['prompt_4_grammar_total'] += model.prompt_4_grammar_total
+            overall_model_nums[cur_model]['prompt_5_grammar_total'] += model.prompt_5_grammar_total
+            overall_model_nums[cur_model]['prompt_1_plausible_total'] += model.prompt_1_plausible_total
+            overall_model_nums[cur_model]['prompt_2_plausible_total'] += model.prompt_2_plausible_total
+            overall_model_nums[cur_model]['prompt_3_plausible_total'] += model.prompt_3_plausible_total
+            overall_model_nums[cur_model]['prompt_4_plausible_total'] += model.prompt_4_plausible_total
+            overall_model_nums[cur_model]['prompt_5_plausible_total'] += model.prompt_5_plausible_total
             
         else:
             model.prompt_1_qa_average = model.prompt_1_qa_total / (num_participants * 3)
@@ -175,8 +270,23 @@ if __name__ == "__main__":
             model.prompt_3_qa_average = model.prompt_3_qa_total / (num_participants * 3)
             model.prompt_4_qa_average = model.prompt_4_qa_total / (num_participants * 3)
             model.prompt_5_qa_average = model.prompt_5_qa_total / (num_participants * 3)
+
+            model.prompt_1_grammar_average = model.prompt_1_grammar_total / (num_participants * 3)
+            model.prompt_2_grammar_average = model.prompt_2_grammar_total / (num_participants * 3)
+            model.prompt_3_grammar_average = model.prompt_3_grammar_total / (num_participants * 3)
+            model.prompt_4_grammar_average = model.prompt_4_grammar_total / (num_participants * 3)
+            model.prompt_5_grammar_average = model.prompt_5_grammar_total / (num_participants * 3)
+
+            model.prompt_1_plausible_average = model.prompt_1_plausible_total / (num_participants * 3)
+            model.prompt_2_plausible_average = model.prompt_2_plausible_total / (num_participants * 3)
+            model.prompt_3_plausible_average = model.prompt_3_plausible_total / (num_participants * 3)
+            model.prompt_4_plausible_average = model.prompt_4_plausible_total / (num_participants * 3)
+            model.prompt_5_plausible_average = model.prompt_5_plausible_total / (num_participants * 3)
+
             model.average_ranking = model.ranking_total / (num_participants * 3 * 5)
             model.overall_qa_average = (model.prompt_1_qa_total + model.prompt_2_qa_total + model.prompt_3_qa_total + model.prompt_4_qa_total + model.prompt_5_qa_total) / (num_participants * 3 * 5)
+            model.overall_grammar_average = (model.prompt_1_grammar_total + model.prompt_2_grammar_total + model.prompt_3_grammar_total + model.prompt_4_grammar_total + model.prompt_5_grammar_total) / (num_participants * 3 * 5)
+            model.overall_plausible_average = (model.prompt_1_plausible_total + model.prompt_2_plausible_total + model.prompt_3_plausible_total + model.prompt_4_plausible_total + model.prompt_5_plausible_total) / (num_participants * 3 * 5)
 
     for overall_model in overall_model_nums.values():
         overall_model['prompt_1_qa_average'] = overall_model['prompt_1_qa_total'] / (num_participants * 3)
@@ -185,6 +295,19 @@ if __name__ == "__main__":
         overall_model['prompt_4_qa_average'] = overall_model['prompt_4_qa_total'] / (num_participants * 3)
         overall_model['prompt_5_qa_average'] = overall_model['prompt_5_qa_total'] / (num_participants * 3)
 
+        overall_model['prompt_1_grammar_average'] = overall_model['prompt_1_grammar_total'] / (num_participants * 3)
+        overall_model['prompt_2_grammar_average'] = overall_model['prompt_2_grammar_total'] / (num_participants * 3)
+        overall_model['prompt_3_grammar_average'] = overall_model['prompt_3_grammar_total'] / (num_participants * 3)
+        overall_model['prompt_4_grammar_average'] = overall_model['prompt_4_grammar_total'] / (num_participants * 3)
+        overall_model['prompt_5_grammar_average'] = overall_model['prompt_5_grammar_total'] / (num_participants * 3)
+        overall_model['prompt_1_plausible_average'] = overall_model['prompt_1_plausible_total'] / (num_participants * 3)
+        overall_model['prompt_2_plausible_average'] = overall_model['prompt_2_plausible_total'] / (num_participants * 3)
+        overall_model['prompt_3_plausible_average'] = overall_model['prompt_3_plausible_total'] / (num_participants * 3)
+        overall_model['prompt_4_plausible_average'] = overall_model['prompt_4_plausible_total'] / (num_participants * 3)
+        overall_model['prompt_5_plausible_average'] = overall_model['prompt_5_plausible_total'] / (num_participants * 3)
+
+        overall_model['overall_grammar_average'] = (overall_model['prompt_1_grammar_total'] + overall_model['prompt_2_grammar_total'] + overall_model['prompt_3_grammar_total'] + overall_model['prompt_4_grammar_total'] + overall_model['prompt_5_grammar_total']) / (num_participants * 3 * 5)
+        overall_model['overall_plausible_average'] = (overall_model['prompt_1_plausible_total'] + overall_model['prompt_2_plausible_total'] + overall_model['prompt_3_plausible_total'] + overall_model['prompt_4_plausible_total'] + overall_model['prompt_5_plausible_total']) / (num_participants * 3 * 5)
         overall_model['overall_qa_average'] = (overall_model['prompt_1_qa_total'] + overall_model['prompt_2_qa_total'] + overall_model['prompt_3_qa_total'] + overall_model['prompt_4_qa_total'] + overall_model['prompt_5_qa_total']) / (num_participants * 3 * 5)
         overall_model['average_ranking'] = overall_model['ranking_total'] / (num_participants * 3 * 5)
 
@@ -195,7 +318,11 @@ if __name__ == "__main__":
         output.write(model.model_name + '\n')
         for i in range(1, 6):
             output.write(f'Prompt {i} answer average QA score: ' + str(round(getattr(model, f'prompt_{i}_qa_average'), 2)) + '\n')
+            output.write(f'Prompt {i} answer average grammar score: ' + str(round(getattr(model, f'prompt_{i}_grammar_average'), 2)) + '\n')
+            output.write(f'Prompt {i} answer average plausible score: ' + str(round(getattr(model, f'prompt_{i}_plausible_average'), 2)) + '\n')
         output.write(f'Overall average QA score: {model.overall_qa_average: .2f}\n')
+        output.write(f'Overall average QA score: {model.overall_grammar_average: .2f}\n')
+        output.write(f'Overall average QA score: {model.overall_plausible_average: .2f}\n')
         output.write(f'Average Ranking (Lower is better, 1=Best): {model.average_ranking: .2f}\n\n')
 
     for overall_model_name in overall_model_nums:
@@ -203,6 +330,10 @@ if __name__ == "__main__":
         output.write(f'All models based on {overall_model_name}\n')
         for i in range(1, 6):
             output.write(f'Prompt {i} answer average QA score: {overall_model[f"prompt_{i}_qa_average"]: .2f}\n')
+            output.write(f'Prompt {i} answer average grammar score: {overall_model[f"prompt_{i}_grammar_average"]: .2f}\n')
+            output.write(f'Prompt {i} answer average plausible score: {overall_model[f"prompt_{i}_plausible_average"]: .2f}\n')
         output.write(f'Overall average QA score: {overall_model["overall_qa_average"]: .2f}\n')
+        output.write(f'Overall average grammar score: {overall_model["overall_grammar_average"]: .2f}\n')
+        output.write(f'Overall average plausible score: {overall_model["overall_plausible_average"]: .2f}\n')
         output.write(f'Average Ranking (Lower is better, 1=Best): {overall_model["overall_qa_average"]: .2f}\n\n')
         
